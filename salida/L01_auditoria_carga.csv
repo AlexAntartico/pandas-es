@@ -1,9 +1,9 @@
 ﻿fichero,filas,columnas,separador,encoding,decimal,memoria_kb,anomalias
-clientes_crm.csv,8652,9,"','",utf-8-sig,",",4557.3,telefono: 256 nulos | 400 filas duplicadas | nombre: espacios dobles
-encuestas_satisfaccion.csv,2500,7,"','",utf-8,(no aplica),926.2,recomendaria: 274 nulos
-finanzas_conciliacion.csv,6000,6,';',latin-1,mixto,2004.1,decimales mixtos en el mismo fichero | conciliado: 1173 nulos
-logistica_envios.csv,8000,10,"','",utf-8,",",3887.4,peso_kg: 240 nulos
-productos_catalogo.csv,4000,7,"','",utf-8,mixto,1521.8,decimales mixtos en el mismo fichero
-ventas_2024_este.csv,12000,11,';',latin-1,",",5467.9,Descuento %: 593 nulos
-ventas_2024_oeste.tsv,9000,9,'\t',utf-8,.,3308.7,ninguna
-rrhh_nominas.xlsx,800,8,'(excel)',(xlsx),(no aplica),346.4,ninguna
+clientes_crm.csv,8657,9,"','",utf-8-sig,",",1334.1,telefono: 259 nulos | 400 filas duplicadas | nombre: espacios dobles
+encuestas_satisfaccion.csv,2500,7,"','",utf-8,(no aplica),258.4,recomendaria: 282 nulos
+finanzas_conciliacion.csv,6000,6,';',latin-1,mixto,565.8,decimales mixtos en el mismo fichero | conciliado: 1183 nulos
+logistica_envios.csv,8000,10,"','",utf-8,",",1313.9,peso_kg: 240 nulos
+productos_catalogo.csv,4000,7,"','",utf-8,mixto,425.9,decimales mixtos en el mismo fichero
+ventas_2024_este.csv,12000,11,';',latin-1,",",1751.5,Descuento %: 612 nulos
+ventas_2024_oeste.tsv,9000,9,'\t',utf-8,.,1027.2,ninguna
+rrhh_nominas.xlsx,800,8,'(excel)',(xlsx),(no aplica),92.6,ninguna

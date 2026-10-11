@@ -1,9 +1,9 @@
 ﻿fichero,columnas,filas,nulos,falsos,%_sucio
-clientes_crm.csv,9,8652,256,0,0.33
-encuestas_satisfaccion.csv,7,2500,274,1431,9.74
-finanzas_conciliacion.csv,6,6000,1173,0,3.26
+clientes_crm.csv,9,8657,259,0,0.33
+encuestas_satisfaccion.csv,7,2500,282,1431,9.79
+finanzas_conciliacion.csv,6,6000,1183,0,3.29
 logistica_envios.csv,10,8000,240,0,0.3
 productos_catalogo.csv,7,4000,0,0,0.0
 rrhh_nominas.xlsx,8,800,0,0,0.0
-ventas_2024_este.csv,11,12000,593,0,0.45
+ventas_2024_este.csv,11,12000,612,0,0.46
 ventas_2024_oeste.tsv,9,9000,0,0,0.0

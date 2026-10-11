@@ -247,7 +247,7 @@ def clave_canonica(s: pd.Series, solo_latin: bool = False) -> pd.Series:
     Mídelo con `auditar_fusiones`.
     """
     out = s.astype("string")
-    out = out.str.replace(r"[\s\u00a0\u2007\u202f]+", " ", regex=True)
+    out = out.str.replace(r"[\s   ]+", " ", regex=True)
     out = out.str.strip()
     out = out.str.casefold()
     out = out.map(lambda v: transliterar_latin(v) if pd.notna(v) else v)
