@@ -1,0 +1,698 @@
+﻿cliente_id,nombre,pais,email,telefono,alta,segmento,ciudad,saldo,script,clave
+C-05343,Schroder Bar,DE,schroderbar.5343@empresa.com,+792 788767496,01/01/2021,D,München,"1521,71",latin,schroder bar
+C-03503,Antonio García,ES,antoniogarcia.3503@empresa.com,+462 889128894,01/01/2021,C,Barcelona,"6622,04",latin,antonio garcia
+C-03274,María Fernández,ES,mariafernandez.3274@empresa.com,+330 647366634,01/01/2021,B,Madrid,"-1124,80",latin,maria fernandez
+C-00343,Schröder Schmidt,DE,schroderschmidt.343@empresa.com,+630 757298304,01/01/2021,C,Düsseldorf,"5841,92",latin,schroder schmidt
+C-01290,Łukasz Sędzik,PL,łukaszsedzik.1290@empresa.com,+472 730302784,02/01/2021,B,Poznań,"879,13",latin,lukasz sedzik
+C-02751,ÅNGSTRÖM ANDERSSON,SE,angstromandersson.2751@empresa.com,+413 705378969,02/01/2021,C,Estocolmo,"5353,64",latin,angstrom andersson
+C-04674,Åsa Lövgren,SE,asalovgren.4674@empresa.com,+800 634352952,02/01/2021,A,Uppsala,"8366,76",latin,asa lovgren
+C-05582,Öztürk Çavuş,TR,ozturkcavus.5582@empresa.com,+694 644454616,02/01/2021,B,Istanbul,"11862,40",latin,ozturk cavus
+C-00790,ليلى  المنصوري,AE,ليلىالمنصوري.790@empresa.com,+263 731579517,02/01/2021,B,Dubai,"-731,26",arabic,ليلى المنصوري
+C-05206,Ömer Yılmaz,TR,omeryılmaz.5206@empresa.com,+785 631767780,03/01/2021,C,Ankara,"2788,70",latin,omer yilmaz
+C-05855,María Muñoz,ES,mariamunoz.5855@empresa.com,+227 784203853,03/01/2021,C,Barcelona,"8653,03",latin,maria munoz
+C-02238,Sofía López,ES,sofialopez.2238@empresa.com,+564 859584162,03/01/2021,D,Bilbao,"8296,89",latin,sofia lopez
+C-04951,Kaya Çavuş,TR,kayacavus.4951@empresa.com,+615 919423341,03/01/2021,D,Izmir,"6023,78",latin,kaya cavus
+C-01920,Manuel López,ES,manuellopez.1920@empresa.com,+297 976197317,03/01/2021,B,Bilbao,"11258,49",latin,manuel lopez
+C-04071,María Sánchez,ES,mariasanchez.4071@empresa.com,+85 822657438,03/01/2021,C,Bilbao,"7179,64",latin,maria sanchez
+C-04004,Ångström Söderberg,SE,angstromsoderberg.4004@empresa.com,+924 904890802,04/01/2021,B,Malmö,"11155,10",latin,angstrom soderberg
+C-02418,Yılmaz Çavuş,TR,yılmazcavus.2418@empresa.com,+916 625270267,05/01/2021,C,Istanbul,"8118,50",latin,yilmaz cavus
+C-01904,Iván Muñoz,ES,ivanmunoz.1904@empresa.com,+488 964682791,05/01/2021,A,Sevilla,"5052,65",latin,ivan munoz
+C-05036,Weiß Löwe,DE,weißlowe.5036@empresa.com,+968 977148882,05/01/2021,D,Berlin,"-1179,54",latin,weiss lowe
+C-03333,Öztürk Kaya,TR,ozturkkaya.3333@empresa.com,+436 933914811,05/01/2021,C,Antalya,"5446,31",latin,ozturk kaya
+C-02330,Jürgen Groß,DE,jurgengroß.2330@empresa.com,+392 729617682,06/01/2021,D,Köln,"10861,00",latin,jurgen gross
+C-05074,	María López,ES,marialopez.5074@empresa.com,+865 860825688,06/01/2021,B,Málaga,"-368,14",latin,maria lopez
+C-03305,Groß Groß,DE,großgroß.3305@empresa.com,+108 970772427,06/01/2021,C,Berlin,"3816,03",latin,gross gross
+C-00640,Käthe Weiß,DE,katheweiß.640@empresa.com,+611 685838852,06/01/2021,C,Düsseldorf,"3980,01",latin,kathe weiss
+C-04027,Lucía Rodríguez,ES,luciarodriguez.4027@empresa.com,+751 602402319,06/01/2021,C,Valencia,"903,92",latin,lucia rodriguez
+C-01199,Demir Güneş,TR,demirgunes.1199@empresa.com,+145 608101568,06/01/2021,B,Bursa,"-944,15",latin,demir gunes
+C-04166,Yılmaz Güneş,TR,yılmazgunes.4166@empresa.com,+470 860428785,07/01/2021,C,Istanbul,"5343,03",latin,yilmaz gunes
+C-03022,Peña García,ES,penagarcia.3022@empresa.com,+662 730857629,07/01/2021,B,Valencia,"7497,50",latin,pena garcia
+C-02925,سارة المنصوري,AE,سارةالمنصوري.2925@empresa.com,+69 763419563,08/01/2021,C,Dubai,"6881,31",arabic,سارة المنصوري
+C-04682,Begoña Sánchez,ES,begonasanchez.4682@empresa.com,+757 745455626,08/01/2021,C,Sevilla,"10512,95",latin,begona sanchez
+C-05796,Núñez Muñoz,ES,nunezmunoz.5796@empresa.com,+312 690715310,08/01/2021,A,Sevilla,"11090,80",latin,nunez munoz
+C-04064,Javier Sánchez,ES,javiersanchez.4064@empresa.com,+245 804505495,08/01/2021,A,Barcelona,"6669,76",latin,javier sanchez
+C-03235,Begoña Pérez,ES,begonaperez.3235@empresa.com,+98 900968620,09/01/2021,A,Sevilla,"6775,44",latin,begona perez
+C-02951,Krzysztof Łukasiewicz,PL,krzysztofłukasiewicz.2951@empresa.com,+495 835578351,09/01/2021,A,Poznań,"3521,58",latin,krzysztof lukasiewicz
+C-00234,Peña Muñoz,ES,penamunoz.234@empresa.com,+86 665145442,09/01/2021,B,Valencia,"2497,34",latin,pena munoz
+C-02116,عبدالله  الشامسي,AE,عبداللهالشامسي.2116@empresa.com,+71 832120664,09/01/2021,D,Abu Dhabi,"478,80",arabic,عبدالله الشامسي
+C-04816,Çavuş Şahin,TR,cavussahin.4816@empresa.com,+61 993892155,09/01/2021,B,Antalya,"9211,12",latin,cavus sahin
+C-00550,Çelik Şirin,TR,celiksirin.550@empresa.com,+970 691710728,09/01/2021,B,Istanbul,"2193,16",latin,celik sirin
+C-02835,Özlem Yılmaz,TR,ozlemyılmaz.2835@empresa.com,+95 658337698,10/01/2021,C,Ankara,"5685,56",latin,ozlem yilmaz
+C-04058,Begoña López,ES,begonalopez.4058@empresa.com,+687 930177296,10/01/2021,D,Madrid,"-1679,25",latin,begona lopez
+C-05196,Manuel García,ES,manuelgarcia.5196@empresa.com,+843 731647216,10/01/2021,D,Bilbao,"3193,19",latin,manuel garcia
+C-02160,Müller Schröder,DE,mullerschroder.2160@empresa.com,+638 855471537,10/01/2021,A,Berlin,"7072,61",latin,muller schroder
+C-05742,Javier González,ES,javiergonzalez.5742@empresa.com,+904 876989716,10/01/2021,C,Bilbao,"-1967,32",latin,javier gonzalez
+C-02343,lucía gonzález,ES,luciagonzalez.2343@empresa.com,+495 954689662,10/01/2021,A,Valencia,"8504,26",latin,lucia gonzalez
+C-05524,Lucía Fernández,ES,luciafernandez.5524@empresa.com,+841 851179696,10/01/2021,B,Madrid,"10419,30",latin,lucia fernandez
+C-05724,ليلى السويدي,AE,ليلىالسويدي.5724@empresa.com,+815 900844330,10/01/2021,C,Dubai,"3397,06",arabic,ليلى السويدي
+C-02447,Núñez Martínez,ES,nunezmartinez.2447@empresa.com,+224 837765714,11/01/2021,C,Valencia,"11966,52",latin,nunez martinez
+C-01082,Ægir Käufer,DE,ægirkaufer.1082@empresa.com,+281 698833552,11/01/2021,B,München,"10481,11",latin,aegir kaufer
+C-03254,Groß Müller,DE,großmuller.3254@empresa.com,+623 810489214,11/01/2021,B,Hamburg,"6382,82",latin,gross muller
+C-03823,Elena García,ES,elenagarcia.3823@empresa.com,+352 646708830,12/01/2021,A,Bilbao,"-918,53",latin,elena garcia
+C-04979,خالد خليل,AE,خالدخليل.4979@empresa.com,+229 654221317,12/01/2021,D,Sharjah,"8170,88",arabic,خالد خليل
+C-03353,José Fernández,ES,josefernandez.3353@empresa.com,+873 983542577,12/01/2021,C,Málaga,"-1570,73",latin,jose fernandez
+C-02651,Sofía Martínez,ES,sofiamartinez.2651@empresa.com,+57 606963379,12/01/2021,C,Barcelona,"983,85",latin,sofia martinez
+C-04640,María García,ES,mariagarcia.4640@empresa.com,+446 628252297,12/01/2021,A,Bilbao,"3117,12",latin,maria garcia
+C-02060,	Güneş Öztürk,TR,gunesozturk.2060@empresa.com,+114 991303498,12/01/2021,B,Istanbul,"6154,14",latin,gunes ozturk
+C-03747,Schröder Groß,DE,schrodergroß.3747@empresa.com,+706 651646894,13/01/2021,A,Berlin,"11105,76",latin,schroder gross
+C-04552,Ünal  Demir,TR,unaldemir.4552@empresa.com,+336 636191130,13/01/2021,B,Bursa,"9197,44",latin,unal demir
+C-03735,Güneş Özlem,TR,gunesozlem.3735@empresa.com,+494 743620914,13/01/2021,C,Istanbul,"6588,61",latin,gunes ozlem
+C-03190,	José Martínez,ES,josemartinez.3190@empresa.com,+894 770343790,13/01/2021,B,Madrid,"-1063,75",latin,jose martinez
+C-02165,Ibrahim Yılmaz,TR,ibrahimyılmaz.2165@empresa.com,+244 676423598,14/01/2021,C,Izmir,"3721,34",latin,ibrahim yilmaz
+C-02228,María Rodríguez,ES,mariarodriguez.2228@empresa.com,+168 839114495,14/01/2021,B,Madrid,"3680,23",latin,maria rodriguez
+C-01868,Weiß Käufer,DE,weißkaufer.1868@empresa.com,+549 971632838,14/01/2021,A,Berlin,"5659,24",latin,weiss kaufer
+C-04740,Elena Fernandez,ES,elenafernandez.4740@empresa.com,+549 978166701,15/01/2021,A,Bilbao,"3489,27",latin,elena fernandez
+C-02171,مريم الحسن,AE,مريمالحسن.2171@empresa.com,+543 757620912,15/01/2021,D,Sharjah,"1577,30",arabic,مريم الحسن
+C-00426,Ingmar Ångström,SE,ingmarangstrom.426@empresa.com,+588 875359705,15/01/2021,B,Uppsala,"5087,74",latin,ingmar angstrom
+C-01551,عبدالله العلي,AE,عبداللهالعلي.1551@empresa.com,,16/01/2021,D,Al Ain,"5086,04",arabic,عبدالله العلي
+C-05372,Hans Müller,DE,hansmuller.5372@empresa.com,+35 976347545,16/01/2021,B,Berlin,"-874,35",latin,hans muller
+C-01564,Iván García,ES,ivangarcia.1564@empresa.com,+624 827232554,16/01/2021,D,Madrid,"3977,06",latin,ivan garcia
+C-05589,Antonio Lopez,ES,antoniolopez.5589@empresa.com,+909 746663151,17/01/2021,B,Madrid,"1541,01",latin,antonio lopez
+C-00250,Wojciech Świątek,PL,wojciechswiatek.250@empresa.com,+551 677419991,18/01/2021,A,Varsovia,"1442,61",latin,wojciech swiatek
+C-01197,manuel martínez,ES,manuelmartinez.1197@empresa.com,+320 696430189,19/01/2021,D,Málaga,"-547,25",latin,manuel martinez
+C-00392,Peña Gómez,ES,penagomez.392@empresa.com,+577 647672980,19/01/2021,A,Sevilla,"6743,71",latin,pena gomez
+C-03800,Peña Sánchez,ES,penasanchez.3800@empresa.com,+934 732209229,19/01/2021,A,Valencia,"4567,03",latin,pena sanchez
+C-04769,José Muñoz,ES,josemunoz.4769@empresa.com,+965 707618491,19/01/2021,A,Barcelona,"-1743,01",latin,jose munoz
+C-03031,Antonio González,ES,antoniogonzalez.3031@empresa.com,+36 973523458,20/01/2021,B,Barcelona,"10242,06",latin,antonio gonzalez
+C-03408,ليلى النجار,AE,ليلىالنجار.3408@empresa.com,+568 796491409,21/01/2021,A,Sharjah,"2925,20",arabic,ليلى النجار
+C-04626,Iván Gómez,ES,ivangomez.4626@empresa.com,+227 623329871,21/01/2021,A,Madrid,"2106,01",latin,ivan gomez
+C-01327,عائشة النعيمي,AE,عايشةالنعيمي.1327@empresa.com,+73 727658655,22/01/2021,B,Abu Dhabi,"11454,96",arabic,عايشة النعيمي
+C-02346,Ångström Lövgren,SE,angstromlovgren.2346@empresa.com,+742 812769857,22/01/2021,A,Estocolmo,"-1750,55",latin,angstrom lovgren
+C-03517,	Hans Löwe,DE,hanslowe.3517@empresa.com,+549 702565469,22/01/2021,A,Hamburg,"5970,92",latin,hans lowe
+C-01122,Elena López,ES,elenalopez.1122@empresa.com,+333 972136236,23/01/2021,A,Barcelona,"214,50",latin,elena lopez
+C-01744,Käufer Müller,DE,kaufermuller.1744@empresa.com,+811 681493189,23/01/2021,B,Hamburg,"9497,58",latin,kaufer muller
+C-03762,NURIA GOMEZ,ES,nuriagomez.3762@empresa.com,+178 762819152,23/01/2021,B,Barcelona,"2576,80",latin,nuria gomez
+C-01257,Özlem Şahin,TR,ozlemsahin.1257@empresa.com,+757 954573702,23/01/2021,A,Istanbul,"4492,87",latin,ozlem sahin
+C-02619,Nuria García,ES,nuriagarcia.2619@empresa.com,+229 941333396,23/01/2021,B,Madrid,"2713,71",latin,nuria garcia
+C-04780,Löwe Käufer,DE,lowekaufer.4780@empresa.com,+939 930293133,24/01/2021,C,Hamburg,"1453,74",latin,lowe kaufer
+C-04976,Łukasz Łukasiewicz,PL,łukaszłukasiewicz.4976@empresa.com,+593 677181121,24/01/2021,D,Varsovia,"4905,42",latin,lukasz lukasiewicz
+C-03782,İpek Doğan,TR,ipekdogan.3782@empresa.com,+777 605501780,24/01/2021,A,Izmir,"5034,25",latin,ipek dogan
+C-05532,Çavuş Güneş,TR,cavusgunes.5532@empresa.com,+162 727317740,26/01/2021,A,Antalya,"7181,54",latin,cavus gunes
+C-02822,Ingmar Söderberg,SE,ingmarsoderberg.2822@empresa.com,+926 930713224,26/01/2021,D,Göteborg,"-1665,03",latin,ingmar soderberg
+C-00171,Nuria Martínez,ES,nuriamartinez.171@empresa.com,+393 791674687,26/01/2021,C,Barcelona,"3602,65",latin,nuria martinez
+C-02095,Lucía Muñoz,ES,luciamunoz.2095@empresa.com,+399 996302688,26/01/2021,D,Bilbao,"5344,03",latin,lucia munoz
+C-01765,Käufer Weiß,DE,kauferweiß.1765@empresa.com,+237 683151105,26/01/2021,C,Berlin,"2213,53",latin,kaufer weiss
+C-05928,Iván González,ES,ivangonzalez.5928@empresa.com,+424 844616846,28/01/2021,B,Sevilla,"9353,60",latin,ivan gonzalez
+C-00462,Şirin Kaya,TR,sirinkaya.462@empresa.com,,29/01/2021,A,Bursa,"10011,84",latin,sirin kaya
+C-02080,Lucía Pérez,ES,luciaperez.2080@empresa.com,+690 964839690,29/01/2021,B,Málaga,"3530,08",latin,lucia perez
+C-02061,Käthe Löwe,DE,kathelowe.2061@empresa.com,+781 930252542,30/01/2021,C,Düsseldorf,"-968,98",latin,kathe lowe
+C-00159,عبدالله المنصوري,AE,عبداللهالمنصوري.159@empresa.com,+940 839963926,31/01/2021,A,Al Ain,"4080,60",arabic,عبدالله المنصوري
+C-03303,Ćwikła Świątek,PL,cwikłaswiatek.3303@empresa.com,+734 857198440,31/01/2021,A,Cracovia,"8392,48",latin,cwikla swiatek
+C-00194,cagatay dogan,TR,cagataydogan.194@empresa.com,+185 634819631,31/01/2021,D,Istanbul,"6037,21",latin,cagatay dogan
+C-04118,Müller Käufer,DE,mullerkaufer.4118@empresa.com,+148 600174704,31/01/2021,C,Hamburg,"11746,04",latin,muller kaufer
+C-05039,Peña López,ES,penalopez.5039@empresa.com,,31/01/2021,C,Barcelona,"-1297,40",latin,pena lopez
+C-04441,Şule Kaya,TR,sulekaya.4441@empresa.com,,01/02/2021,A,Antalya,"11469,33",latin,sule kaya
+C-05428,Örjan Ångström,SE,orjanangstrom.5428@empresa.com,+701 612141938,01/02/2021,B,Malmö,"5817,85",latin,orjan angstrom
+C-04788,خالد  السويدي,AE,خالدالسويدي.4788@empresa.com,+597 806676574,02/02/2021,C,Sharjah,"5379,67",arabic,خالد السويدي
+C-00769,Löwe Schmidt,DE,loweschmidt.769@empresa.com,+857 833509599,03/02/2021,D,Hamburg,"-197,34",latin,lowe schmidt
+C-04373,Żaneta Kowalski,PL,zanetakowalski.4373@empresa.com,+950 914797401,03/02/2021,B,Poznań,"4083,54",latin,zaneta kowalski
+C-02398,ÇAĞATAY YILMAZ,TR,cagatayyılmaz.2398@empresa.com,+743 703823726,03/02/2021,C,Bursa,"5193,38",latin,cagatay yilmaz
+C-04403,Åsa  Söderberg,SE,asasoderberg.4403@empresa.com,+957 797689157,03/02/2021,D,Uppsala,"8483,35",latin,asa soderberg
+C-03613,Łukasz Świątek,PL,łukaszswiatek.3613@empresa.com,+670 768765843,03/02/2021,C,Poznań,"7160,92",latin,lukasz swiatek
+C-02668,Begoña Rodríguez,ES,begonarodriguez.2668@empresa.com,+752 894577116,04/02/2021,C,Bilbao,"2294,72",latin,begona rodriguez
+C-01416,	ćwikła sędzik,PL,cwikłasedzik.1416@empresa.com,+124 939547602,04/02/2021,D,Gdansk,"8564,03",latin,cwikla sedzik
+C-01873,Şirin  Doğan,TR,sirindogan.1873@empresa.com,+432 940291778,04/02/2021,A,Bursa,"4847,95",latin,sirin dogan
+C-01051,SOREN  SODERBERG,SE,sorensoderberg.1051@empresa.com,+841 713634842,05/02/2021,C,Malmö,"1880,21",latin,soren soderberg
+C-05649,Søren Bär,DE,sørenbar.5649@empresa.com,+809 841989794,06/02/2021,C,Berlin,"3229,41",latin,soren bar
+C-03258,Krzysztof Kowalski,PL,krzysztofkowalski.3258@empresa.com,+412 983968721,07/02/2021,D,Cracovia,"12105,48",latin,krzysztof kowalski
+C-02658,Nuria González,ES,nuriagonzalez.2658@empresa.com,,08/02/2021,D,Sevilla,"10203,12",latin,nuria gonzalez
+C-01434,José Sánchez,ES,josesanchez.1434@empresa.com,+840 749968854,08/02/2021,A,Madrid,"9460,59",latin,jose sanchez
+C-02465,Núñez García,ES,nunezgarcia.2465@empresa.com,+151 614901718,08/02/2021,C,Sevilla,"7824,11",latin,nunez garcia
+C-03790,Nuria Pérez,ES,nuriaperez.3790@empresa.com,+53 846736457,09/02/2021,C,Valencia,"9634,52",latin,nuria perez
+C-04146,Grzegorz Ćwikła,PL,grzegorzcwikła.4146@empresa.com,+210 748434324,09/02/2021,B,Varsovia,"6938,71",latin,grzegorz cwikla
+C-03308,Javier Fernández,ES,javierfernandez.3308@empresa.com,+435 733990858,09/02/2021,D,Barcelona,"10155,76",latin,javier fernandez
+C-03507,	Javier Gómez,ES,javiergomez.3507@empresa.com,+962 640460860,10/02/2021,B,Barcelona,"7529,46",latin,javier gomez
+C-02223,elena gómez,ES,elenagomez.2223@empresa.com,+532 843123875,10/02/2021,C,Madrid,"165,19",latin,elena gomez
+C-00492,Çelik  Öztürk,TR,celikozturk.492@empresa.com,+905 873514953,10/02/2021,A,Istanbul,"10327,47",latin,celik ozturk
+C-01188,Mehmet Kaya,TR,mehmetkaya.1188@empresa.com,+80 602205902,10/02/2021,C,Antalya,"2994,53",latin,mehmet kaya
+C-01067,María Martínez,ES,mariamartinez.1067@empresa.com,+412 914201146,11/02/2021,B,Málaga,"6154,43",latin,maria martinez
+C-02158,Miłosz Żółkiewski,PL,miłoszzołkiewski.2158@empresa.com,+647 841902154,11/02/2021,A,Wroclaw,"10162,22",latin,milosz zolkiewski
+C-03020,نورة المنصوري,AE,نورةالمنصوري.3020@empresa.com,+569 873493563,11/02/2021,B,Dubai,"-1297,29",arabic,نورة المنصوري
+C-00891,Kaya  Çelik,TR,kayacelik.891@empresa.com,+931 835917883,11/02/2021,D,Antalya,"8812,00",latin,kaya celik
+C-00505,Groß Weiß,DE,großweiß.505@empresa.com,+852 877229484,11/02/2021,D,Hamburg,"8296,21",latin,gross weiss
+C-03604,Özlem Çavuş,TR,ozlemcavus.3604@empresa.com,+126 656762648,12/02/2021,B,Bursa,"897,25",latin,ozlem cavus
+C-05723,Güneş  Çavuş,TR,gunescavus.5723@empresa.com,+489 897925905,12/02/2021,C,Bursa,"6860,08",latin,gunes cavus
+C-04301,خالد  الشامسي,AE,خالدالشامسي.4301@empresa.com,+333 820110257,12/02/2021,C,Sharjah,"1098,12",arabic,خالد الشامسي
+C-04726,Şahin Doğan,TR,sahindogan.4726@empresa.com,+372 681339969,12/02/2021,B,Bursa,"11839,69",latin,sahin dogan
+C-05408,ليلى خليل,AE,ليلىخليل.5408@empresa.com,+637 703728133,13/02/2021,B,Abu Dhabi,"3745,42",arabic,ليلى خليل
+C-04028,Söderberg  Lövgren,SE,soderberglovgren.4028@empresa.com,+611 706930584,13/02/2021,A,Malmö,"2737,75",latin,soderberg lovgren
+C-05625,Şahin Öztürk,TR,sahinozturk.5625@empresa.com,,14/02/2021,A,Ankara,"2717,27",latin,sahin ozturk
+C-05856,Lucía García,ES,luciagarcia.5856@empresa.com,+103 707382209,14/02/2021,D,Sevilla,"-1671,02",latin,lucia garcia
+C-04319,Çavuş Doğan,TR,cavusdogan.4319@empresa.com,+753 748275986,14/02/2021,C,Bursa,"3605,10",latin,cavus dogan
+C-01179,İbrahim Öztürk,TR,ibrahimozturk.1179@empresa.com,+668 666484864,15/02/2021,D,Ankara,"4818,82",latin,ibrahim ozturk
+C-05409,فاطمة الحسن,AE,فاطمةالحسن.5409@empresa.com,+163 791659692,15/02/2021,C,Abu Dhabi,"8577,61",arabic,فاطمة الحسن
+C-04164,Núñez Sánchez,ES,nunezsanchez.4164@empresa.com,+656 905138888,15/02/2021,D,Barcelona,"5829,78",latin,nunez sanchez
+C-04395,Söderberg Björnsson,SE,soderbergbjornsson.4395@empresa.com,+541 769213539,15/02/2021,B,Göteborg,"1697,08",latin,soderberg bjornsson
+C-03631,Gülsüm Güneş,TR,gulsumgunes.3631@empresa.com,+282 817435512,16/02/2021,D,Istanbul,"9274,83",latin,gulsum gunes
+C-04446,Sofía Sánchez,ES,sofiasanchez.4446@empresa.com,+739 933964268,16/02/2021,D,Málaga,"-1895,92",latin,sofia sanchez
+C-01103,Ibrahim Güneş,TR,ibrahimgunes.1103@empresa.com,+539 683251984,16/02/2021,D,Istanbul,"10723,30",latin,ibrahim gunes
+C-00300,Begoña Fernández,ES,begonafernandez.300@empresa.com,+328 949455809,16/02/2021,C,Valencia,"7194,68",latin,begona fernandez
+C-03230,CAGATAY SIRIN,TR,cagataysirin.3230@empresa.com,+463 713300174,17/02/2021,A,Bursa,"-1015,92",latin,cagatay sirin
+C-01642,حسن العلي,AE,حسنالعلي.1642@empresa.com,+497 787225494,17/02/2021,C,Al Ain,"11216,95",arabic,حسن العلي
+C-04588,Manuel González,ES,manuelgonzalez.4588@empresa.com,+227 804631859,17/02/2021,B,Bilbao,"9232,83",latin,manuel gonzalez
+C-03126,José López,ES,joselopez.3126@empresa.com,+302 709826360,17/02/2021,D,Barcelona,"1143,39",latin,jose lopez
+C-01786,María Pérez,ES,mariaperez.1786@empresa.com,+573 984568586,17/02/2021,A,Málaga,"1471,55",latin,maria perez
+C-00882,Sofía Fernández,ES,sofiafernandez.882@empresa.com,+37 803339349,17/02/2021,C,Valencia,"2923,17",latin,sofia fernandez
+C-02827,مريم الشامسي,AE,مريمالشامسي.2827@empresa.com,+873 998704139,17/02/2021,A,Dubai,"-171,95",arabic,مريم الشامسي
+C-00834,Gülsüm  Yılmaz,TR,gulsumyılmaz.834@empresa.com,+223 920639920,18/02/2021,C,Ankara,"1580,36",latin,gulsum yilmaz
+C-04129,Örjan  Björnsson,SE,orjanbjornsson.4129@empresa.com,+509 884848166,18/02/2021,B,Göteborg,"1220,70",latin,orjan bjornsson
+C-03844,Peña González,ES,penagonzalez.3844@empresa.com,+301 865592526,18/02/2021,B,Valencia,"4822,89",latin,pena gonzalez
+C-05340,Måns Björnsson,SE,mansbjornsson.5340@empresa.com,+145 879445243,18/02/2021,A,Göteborg,"5085,92",latin,mans bjornsson
+C-02685,Begoña Muñoz,ES,begonamunoz.2685@empresa.com,+208 951280583,18/02/2021,D,Madrid,"11910,58",latin,begona munoz
+C-04350,Hans Weiß,DE,hansweiß.4350@empresa.com,+853 754896303,19/02/2021,D,Berlin,"7858,86",latin,hans weiss
+C-02304,حسن النجار,AE,حسنالنجار.2304@empresa.com,+658 952962587,19/02/2021,D,Al Ain,"-162,54",arabic,حسن النجار
+C-05865,Lucía  Gómez,ES,luciagomez.5865@empresa.com,+301 953473181,19/02/2021,B,Málaga,"5711,38",latin,lucia gomez
+C-04985,نورة  النعيمي,AE,نورةالنعيمي.4985@empresa.com,+469 631177644,20/02/2021,C,Sharjah,"10256,97",arabic,نورة النعيمي
+C-02621,Söderberg Ångström,SE,soderbergangstrom.2621@empresa.com,+458 964403726,21/02/2021,B,Malmö,"10271,06",latin,soderberg angstrom
+C-03090,Begoña González,ES,begonagonzalez.3090@empresa.com,+610 892287241,21/02/2021,D,Madrid,"7146,02",latin,begona gonzalez
+C-05606,Antonio Muñoz,ES,antoniomunoz.5606@empresa.com,+786 832699995,21/02/2021,D,Valencia,"-1233,26",latin,antonio munoz
+C-03771,Nuria López,ES,nurialopez.3771@empresa.com,+474 666746234,21/02/2021,D,Málaga,"-1870,54",latin,nuria lopez
+C-00670,Ünal Kaya,TR,unalkaya.670@empresa.com,+774 979722688,22/02/2021,D,Izmir,"-650,83",latin,unal kaya
+C-00438,حسن الشامسي,AE,حسنالشامسي.438@empresa.com,+541 765595386,22/02/2021,C,Al Ain,"5283,28",arabic,حسن الشامسي
+C-04332,عائشة العلي,AE,عايشةالعلي.4332@empresa.com,+472 857184204,22/02/2021,B,Sharjah,"4844,61",arabic,عايشة العلي
+C-04156,Elena Sánchez,ES,elenasanchez.4156@empresa.com,+532 881101885,23/02/2021,B,Málaga,"613,92",latin,elena sanchez
+C-02214,أحمد العلي,AE,احمدالعلي.2214@empresa.com,+854 670170327,23/02/2021,D,Al Ain,"4450,09",arabic,احمد العلي
+C-03425,Çelik Güneş,TR,celikgunes.3425@empresa.com,+334 980754707,24/02/2021,A,Istanbul,"6653,51",latin,celik gunes
+C-02397,SULE SAHIN,TR,sulesahin.2397@empresa.com,+249 868776432,25/02/2021,B,Istanbul,"4898,82",latin,sule sahin
+C-03264,SÖREN ÖBERG,SE,sorenoberg.3264@empresa.com,+50 913221814,25/02/2021,B,Uppsala,"4738,43",latin,soren oberg
+C-05069,ANTONIO RODRIGUEZ,ES,antoniorodriguez.5069@empresa.com,+682 824779903,25/02/2021,A,Sevilla,"1006,00",latin,antonio rodriguez
+C-02444,Kaya Demir,TR,kayademir.2444@empresa.com,+699 832312781,25/02/2021,A,Ankara,"4720,04",latin,kaya demir
+C-02738,Peña Pérez,ES,penaperez.2738@empresa.com,+868 744165144,25/02/2021,D,Bilbao,"8206,95",latin,pena perez
+C-03651,Iván Martínez,ES,ivanmartinez.3651@empresa.com,+72 602271706,25/02/2021,D,Madrid,"11838,81",latin,ivan martinez
+C-02414,Şule Doğan,TR,suledogan.2414@empresa.com,,26/02/2021,D,Izmir,"-11,35",latin,sule dogan
+C-02694,mans soderberg,SE,manssoderberg.2694@empresa.com,+243 930292118,26/02/2021,A,Estocolmo,"306,01",latin,mans soderberg
+C-04297,Nuria Sánchez,ES,nuriasanchez.4297@empresa.com,+319 893870235,26/02/2021,A,Valencia,"8747,66",latin,nuria sanchez
+C-05624,ليلى  الشامسي,AE,ليلىالشامسي.5624@empresa.com,+913 766406381,27/02/2021,A,Al Ain,"1025,99",arabic,ليلى الشامسي
+C-03655,ozturk  sahin,TR,ozturksahin.3655@empresa.com,+745 928593599,27/02/2021,A,Antalya,"7163,12",latin,ozturk sahin
+C-05539,عبدالله خليل,AE,عبداللهخليل.5539@empresa.com,+696 861971833,27/02/2021,B,Sharjah,"9857,27",arabic,عبدالله خليل
+C-00326,Hans Käufer,DE,hanskaufer.326@empresa.com,,28/02/2021,B,Berlin,"4657,00",latin,hans kaufer
+C-00786,Mehmet Doğan,TR,mehmetdogan.786@empresa.com,+617 634463384,28/02/2021,B,Ankara,"1607,80",latin,mehmet dogan
+C-04866,ليلى العلي,AE,ليلىالعلي.4866@empresa.com,+260 618587848,01/03/2021,B,Dubai,"4511,41",arabic,ليلى العلي
+C-05070,Ćwikła Kowalski,PL,cwikłakowalski.5070@empresa.com,+678 634568564,01/03/2021,A,Cracovia,"7170,38",latin,cwikla kowalski
+C-02120,Ğökhan Çavuş,TR,gokhancavus.2120@empresa.com,+46 853443119,01/03/2021,B,Izmir,"6517,59",latin,gokhan cavus
+C-05640,Żaneta Łukasiewicz,PL,zanetałukasiewicz.5640@empresa.com,+405 730244752,01/03/2021,D,Gdansk,"2424,51",latin,zaneta lukasiewicz
+C-01354,محمد النجار,AE,محمدالنجار.1354@empresa.com,+143 615287729,01/03/2021,C,Sharjah,"3496,16",arabic,محمد النجار
+C-05924,نورة الحسن,AE,نورةالحسن.5924@empresa.com,+933 792301904,02/03/2021,D,Al Ain,"-407,67",arabic,نورة الحسن
+C-02132,Wojciech Żółkiewski,PL,wojciechzołkiewski.2132@empresa.com,+431 748454277,02/03/2021,C,Poznań,"11113,79",latin,wojciech zolkiewski
+C-04133,ÅSA ÅNGSTRÖM,SE,asaangstrom.4133@empresa.com,+338 717151377,02/03/2021,D,Uppsala,"4261,23",latin,asa angstrom
+C-04531,Käthe Bär,DE,kathebar.4531@empresa.com,+81 958536754,04/03/2021,B,München,"11563,00",latin,kathe bar
+C-04608,فاطمة العلي,AE,فاطمةالعلي.4608@empresa.com,+945 718398993,04/03/2021,B,Sharjah,"11698,49",arabic,فاطمة العلي
+C-01264,Bar Schroder,DE,barschroder.1264@empresa.com,+100 832684843,04/03/2021,D,Köln,"2047,95",latin,bar schroder
+C-05943,Björn Björnsson,SE,bjornbjornsson.5943@empresa.com,+138 689922624,05/03/2021,A,Uppsala,"11077,99",latin,bjorn bjornsson
+C-02678,Ingmar  Lövgren,SE,ingmarlovgren.2678@empresa.com,+263 640662718,05/03/2021,A,Göteborg,"2972,71",latin,ingmar lovgren
+C-01092,Greta  Bär,DE,gretabar.1092@empresa.com,+534 979623280,06/03/2021,C,Köln,"3754,44",latin,greta bar
+C-03971,Söderberg Andersson,SE,soderbergandersson.3971@empresa.com,+307 718413679,06/03/2021,A,Estocolmo,"3978,68",latin,soderberg andersson
+C-00435,Lucía López,ES,lucialopez.435@empresa.com,+626 659979408,06/03/2021,A,Barcelona,"2745,06",latin,lucia lopez
+C-04753,Özlem Güneş,TR,ozlemgunes.4753@empresa.com,+465 777602551,06/03/2021,C,Ankara,"9396,47",latin,ozlem gunes
+C-00003,Doğan Öztürk,TR,doganozturk.3@empresa.com,+139 685837713,07/03/2021,A,Bursa,"8649,91",latin,dogan ozturk
+C-04790,Ibrahim Doğan,TR,ibrahimdogan.4790@empresa.com,+245 741150749,07/03/2021,C,Izmir,"6931,04",latin,ibrahim dogan
+C-00099,Weiß Müller,DE,weißmuller.99@empresa.com,+293 801514338,07/03/2021,B,München,"-1372,99",latin,weiss muller
+C-01085,Begoña Gómez,ES,begonagomez.1085@empresa.com,+766 833960128,08/03/2021,C,Madrid,"5663,84",latin,begona gomez
+C-02206,Şirin Yılmaz,TR,sirinyılmaz.2206@empresa.com,+45 782608149,08/03/2021,D,Antalya,"4756,37",latin,sirin yilmaz
+C-04287,يوسف المنصوري,AE,يوسفالمنصوري.4287@empresa.com,+728 721181683,08/03/2021,B,Abu Dhabi,"-1040,87",arabic,يوسف المنصوري
+C-03660,Jürgen Käufer,DE,jurgenkaufer.3660@empresa.com,+266 987149492,09/03/2021,C,Hamburg,"11617,75",latin,jurgen kaufer
+C-01289,IVAN LOPEZ,ES,ivanlopez.1289@empresa.com,+203 846612271,09/03/2021,D,Valencia,"4368,48",latin,ivan lopez
+C-04704,Sofía González,ES,sofiagonzalez.4704@empresa.com,+698 645923890,09/03/2021,A,Valencia,"7013,29",latin,sofia gonzalez
+C-00001,Demir Yılmaz,TR,demiryılmaz.1@empresa.com,+520 947696666,09/03/2021,D,Istanbul,"5922,01",latin,demir yilmaz
+C-02741,Ingmar Öberg,SE,ingmaroberg.2741@empresa.com,+729 700768683,09/03/2021,D,Estocolmo,"10094,48",latin,ingmar oberg
+C-04517,Grzegorz Sędzik,PL,grzegorzsedzik.4517@empresa.com,+684 712301684,10/03/2021,A,Poznań,"5082,73",latin,grzegorz sedzik
+C-03840,سارة النعيمي,AE,سارةالنعيمي.3840@empresa.com,+406 721853330,10/03/2021,A,Al Ain,"5358,02",arabic,سارة النعيمي
+C-01475,Åsa Öberg,SE,asaoberg.1475@empresa.com,+581 854964102,11/03/2021,A,Göteborg,"11752,44",latin,asa oberg
+C-03098,	أحمد النعيمي,AE,احمدالنعيمي.3098@empresa.com,+195 989562307,11/03/2021,C,Abu Dhabi,"5469,95",arabic,احمد النعيمي
+C-00475,Ğökhan Yılmaz,TR,gokhanyılmaz.475@empresa.com,+504 862293176,12/03/2021,B,Antalya,"11871,75",latin,gokhan yilmaz
+C-04756,Elena González,ES,elenagonzalez.4756@empresa.com,+88 819690725,12/03/2021,B,Madrid,"5350,37",latin,elena gonzalez
+C-00843,Mehmet Özlem,TR,mehmetozlem.843@empresa.com,+328 795776446,12/03/2021,A,Istanbul,"11491,92",latin,mehmet ozlem
+C-01280,Javier Muñoz,ES,javiermunoz.1280@empresa.com,+374 789479222,13/03/2021,C,Valencia,"1001,84",latin,javier munoz
+C-04990,Ğökhan  Şirin,TR,gokhansirin.4990@empresa.com,+444 733206696,13/03/2021,A,Izmir,"4771,41",latin,gokhan sirin
+C-02049,ÜNAL ÖZLEM,TR,unalozlem.2049@empresa.com,+308 982430132,13/03/2021,B,Ankara,"-1128,05",latin,unal ozlem
+C-00916,Bär  Müller,DE,barmuller.916@empresa.com,+80 876803878,13/03/2021,D,Düsseldorf,"-1478,58",latin,bar muller
+C-05213,Ömer Doğan,TR,omerdogan.5213@empresa.com,+152 933351675,13/03/2021,B,Ankara,"11283,30",latin,omer dogan
+C-00996,Bar Schmidt,DE,barschmidt.996@empresa.com,+557 723232583,13/03/2021,A,München,"-133,44",latin,bar schmidt
+C-02007,Miłosz Świątek,PL,miłoszswiatek.2007@empresa.com,+595 817705428,13/03/2021,A,Poznań,"-1105,48",latin,milosz swiatek
+C-00630,Demir Şirin,TR,demirsirin.630@empresa.com,+253 661552321,14/03/2021,B,Bursa,"7768,16",latin,demir sirin
+C-04225,Antonio Martínez,ES,antoniomartinez.4225@empresa.com,+337 706471991,15/03/2021,B,Valencia,"10330,15",latin,antonio martinez
+C-05909,Miłosz Łukasiewicz,PL,miłoszłukasiewicz.5909@empresa.com,+396 977631241,15/03/2021,D,Varsovia,"7425,82",latin,milosz lukasiewicz
+C-05289,SCHRÖDER MÜLLER,DE,schrodermuller.5289@empresa.com,+92 746190448,17/03/2021,B,Düsseldorf,"1818,79",latin,schroder muller
+C-05176,	SWIATEK SEDZIK,PL,swiateksedzik.5176@empresa.com,+586 795177692,17/03/2021,C,Wroclaw,"1545,84",latin,swiatek sedzik
+C-05564,	Żaneta Świątek,PL,zanetaswiatek.5564@empresa.com,+532 713259980,17/03/2021,A,Gdansk,"-522,18",latin,zaneta swiatek
+C-00583,María González,ES,mariagonzalez.583@empresa.com,+142 655896307,17/03/2021,A,Madrid,"8821,75",latin,maria gonzalez
+C-02130,Greta Schröder,DE,gretaschroder.2130@empresa.com,+356 849353271,17/03/2021,A,Berlin,"7715,18",latin,greta schroder
+C-03457,Weiß Schmidt,DE,weißschmidt.3457@empresa.com,+844 764329604,18/03/2021,C,Hamburg,"3970,39",latin,weiss schmidt
+C-03938,José García,ES,josegarcia.3938@empresa.com,+888 768930754,18/03/2021,B,Sevilla,"7569,69",latin,jose garcia
+C-04724,خالد المنصوري,AE,خالدالمنصوري.4724@empresa.com,+117 965433718,18/03/2021,D,Sharjah,"11389,51",arabic,خالد المنصوري
+C-02513,Antonio Pérez,ES,antonioperez.2513@empresa.com,+334 976964935,18/03/2021,A,Bilbao,"7017,18",latin,antonio perez
+C-04881,Ægir Schröder,DE,ægirschroder.4881@empresa.com,+519 857427750,19/03/2021,C,München,"11863,53",latin,aegir schroder
+C-02519,Şule  Çelik,TR,sulecelik.2519@empresa.com,,19/03/2021,A,Istanbul,"6316,60",latin,sule celik
+C-00577,Elena Muñoz,ES,elenamunoz.577@empresa.com,+153 810884657,20/03/2021,B,Valencia,"6764,39",latin,elena munoz
+C-00038,Björn Schmidt,DE,bjornschmidt.38@empresa.com,+882 703870234,20/03/2021,D,Hamburg,"1908,36",latin,bjorn schmidt
+C-03164,Javier García,ES,javiergarcia.3164@empresa.com,+348 764828378,20/03/2021,A,Málaga,"3047,79",latin,javier garcia
+C-02503,Käufer Groß,DE,kaufergroß.2503@empresa.com,+593 858803666,21/03/2021,D,Köln,"11953,04",latin,kaufer gross
+C-04449,فاطمة النعيمي,AE,فاطمةالنعيمي.4449@empresa.com,+564 612975845,21/03/2021,A,Abu Dhabi,"4948,34",arabic,فاطمة النعيمي
+C-04782,İpek Güneş,TR,ipekgunes.4782@empresa.com,+78 824349829,22/03/2021,A,Izmir,"3591,51",latin,ipek gunes
+C-00732,Sofía Gómez,ES,sofiagomez.732@empresa.com,+374 635106713,22/03/2021,B,Sevilla,"-558,20",latin,sofia gomez
+C-00108,Öztürk Çelik,TR,ozturkcelik.108@empresa.com,+150 942195643,22/03/2021,C,Ankara,"-1653,23",latin,ozturk celik
+C-00082,Müller Müller,DE,mullermuller.82@empresa.com,+369 712689488,22/03/2021,D,München,"-131,13",latin,muller muller
+C-05424,MANUEL  RODRÍGUEZ,ES,manuelrodriguez.5424@empresa.com,+364 816644230,23/03/2021,B,Barcelona,"5149,27",latin,manuel rodriguez
+C-02883,Şahin Çavuş,TR,sahincavus.2883@empresa.com,+50 947133816,23/03/2021,C,Istanbul,"6890,40",latin,sahin cavus
+C-04084,SOFÍA MUÑOZ,ES,sofiamunoz.4084@empresa.com,+917 730833471,23/03/2021,C,Málaga,"-1049,28",latin,sofia munoz
+C-03756,José Rodríguez,ES,joserodriguez.3756@empresa.com,+933 967312203,23/03/2021,D,Sevilla,"10594,06",latin,jose rodriguez
+C-05198,Ayşe Demir,TR,aysedemir.5198@empresa.com,+573 908380332,23/03/2021,C,Bursa,"10189,08",latin,ayse demir
+C-01004,محمد العلي,AE,محمدالعلي.1004@empresa.com,+813 871186139,24/03/2021,B,Abu Dhabi,"7229,57",arabic,محمد العلي
+C-04527,Şirin Özlem,TR,sirinozlem.4527@empresa.com,+463 672561110,24/03/2021,A,Izmir,"3941,26",latin,sirin ozlem
+C-02194,Björn Lövgren,SE,bjornlovgren.2194@empresa.com,+328 712137951,25/03/2021,C,Malmö,"-954,38",latin,bjorn lovgren
+C-05290,Ömer Şirin,TR,omersirin.5290@empresa.com,+90 892868715,25/03/2021,C,Ankara,"2293,97",latin,omer sirin
+C-05665,Łukasz Kowalski,PL,łukaszkowalski.5665@empresa.com,+783 672398105,26/03/2021,B,Wroclaw,"-541,07",latin,lukasz kowalski
+C-03296,Núñez López,ES,nunezlopez.3296@empresa.com,+580 861192285,26/03/2021,B,Bilbao,"2837,71",latin,nunez lopez
+C-05712,Nuria Fernández,ES,nuriafernandez.5712@empresa.com,+242 682722258,27/03/2021,D,Barcelona,"7966,75",latin,nuria fernandez
+C-05713,Manuel  Muñoz,ES,manuelmunoz.5713@empresa.com,+255 609468714,28/03/2021,B,Bilbao,"2874,35",latin,manuel munoz
+C-04330,Schröder Käufer,DE,schroderkaufer.4330@empresa.com,+326 841248402,28/03/2021,C,München,"-1422,21",latin,schroder kaufer
+C-03623,Yılmaz Yılmaz,TR,yılmazyılmaz.3623@empresa.com,+204 757876540,28/03/2021,D,Ankara,"4134,85",latin,yilmaz yilmaz
+C-02305,Ibrahim Şirin,TR,ibrahimsirin.2305@empresa.com,+627 996126952,29/03/2021,B,Bursa,"3374,64",latin,ibrahim sirin
+C-02642,خالد العلي,AE,خالدالعلي.2642@empresa.com,+523 674853914,29/03/2021,B,Sharjah,"11743,87",arabic,خالد العلي
+C-01792,Öztürk Demir,TR,ozturkdemir.1792@empresa.com,+140 838226916,29/03/2021,C,Bursa,"10540,85",latin,ozturk demir
+C-05849,حسن السويدي,AE,حسنالسويدي.5849@empresa.com,+842 775170503,29/03/2021,D,Al Ain,"8557,03",arabic,حسن السويدي
+C-01681,Søren  Schröder,DE,sørenschroder.1681@empresa.com,+498 980640767,30/03/2021,A,Berlin,"10517,98",latin,soren schroder
+C-00935,سارة الشامسي,AE,سارةالشامسي.935@empresa.com,+569 706334350,30/03/2021,A,Sharjah,"9196,16",arabic,سارة الشامسي
+C-03302,Çelik Yılmaz,TR,celikyılmaz.3302@empresa.com,+594 735524434,30/03/2021,B,Ankara,"227,10",latin,celik yilmaz
+C-05250,Müller  Groß,DE,mullergroß.5250@empresa.com,+770 993231602,30/03/2021,D,Düsseldorf,"4818,71",latin,muller gross
+C-05840,Sędzik Łukasiewicz,PL,sedzikłukasiewicz.5840@empresa.com,+458 860769602,31/03/2021,A,Wroclaw,"4884,94",latin,sedzik lukasiewicz
+C-04029,ÖMER GÜNEŞ,TR,omergunes.4029@empresa.com,+814 737539730,01/04/2021,D,Ankara,"11984,61",latin,omer gunes
+C-00057,Ægir Bär,DE,ægirbar.57@empresa.com,+697 820165830,02/04/2021,B,Hamburg,"3534,95",latin,aegir bar
+C-01875,OMER KAYA,TR,omerkaya.1875@empresa.com,+607 705667175,02/04/2021,B,Bursa,"521,63",latin,omer kaya
+C-05663,Lucía Sánchez,ES,luciasanchez.5663@empresa.com,+717 867659147,02/04/2021,A,Málaga,"4386,94",latin,lucia sanchez
+C-00202,Antonio  Sánchez,ES,antoniosanchez.202@empresa.com,+118 661512992,02/04/2021,D,Málaga,"-929,81",latin,antonio sanchez
+C-02550,Demir Kaya,TR,demirkaya.2550@empresa.com,+531 877416532,03/04/2021,D,Izmir,"10332,82",latin,demir kaya
+C-00894,Iván  Rodríguez,ES,ivanrodriguez.894@empresa.com,+417 696599148,03/04/2021,B,Barcelona,"4182,88",latin,ivan rodriguez
+C-04482,Peña Martínez,ES,penamartinez.4482@empresa.com,+505 844719359,03/04/2021,C,Valencia,"1483,85",latin,pena martinez
+C-01399,Peña Fernández,ES,penafernandez.1399@empresa.com,+959 736462807,04/04/2021,D,Barcelona,"1865,72",latin,pena fernandez
+C-00439,Weiß Schröder,DE,weißschroder.439@empresa.com,+540 770655960,04/04/2021,C,Hamburg,"-482,01",latin,weiss schroder
+C-05885,Örjan Andersson,SE,orjanandersson.5885@empresa.com,+625 879316738,04/04/2021,B,Göteborg,"-942,36",latin,orjan andersson
+C-04505,Krzysztof Świątek,PL,krzysztofswiatek.4505@empresa.com,+394 675181633,05/04/2021,B,Gdansk,"-434,12",latin,krzysztof swiatek
+C-00011,Nunez Gomez,ES,nunezgomez.11@empresa.com,+373 843302658,05/04/2021,D,Valencia,"-805,38",latin,nunez gomez
+C-02591,Groß Bär,DE,großbar.2591@empresa.com,+66 605292336,06/04/2021,B,Berlin,"3227,17",latin,gross bar
+C-03325,Manuel Gómez,ES,manuelgomez.3325@empresa.com,,06/04/2021,C,Sevilla,"6276,54",latin,manuel gomez
+C-05456,Antonio Fernández,ES,antoniofernandez.5456@empresa.com,+557 745245930,06/04/2021,A,Barcelona,"7233,52",latin,antonio fernandez
+C-05558,Söderberg Söderberg,SE,soderbergsoderberg.5558@empresa.com,+906 857587150,07/04/2021,D,Uppsala,"5605,30",latin,soderberg soderberg
+C-02664,Świątek Kowalski,PL,swiatekkowalski.2664@empresa.com,+427 829362921,07/04/2021,D,Wroclaw,"2662,73",latin,swiatek kowalski
+C-01353,سارة الحسن,AE,سارةالحسن.1353@empresa.com,+437 894408951,09/04/2021,A,Sharjah,"4514,05",arabic,سارة الحسن
+C-04593,Ünal Şahin,TR,unalsahin.4593@empresa.com,+774 806511171,09/04/2021,B,Antalya,"6480,45",latin,unal sahin
+C-01391,Ćwikła Ćwikła,PL,cwikłacwikła.1391@empresa.com,+565 703632512,09/04/2021,C,Gdansk,"8076,12",latin,cwikla cwikla
+C-01446,Doğan Yılmaz,TR,doganyılmaz.1446@empresa.com,+564 736397886,09/04/2021,D,Bursa,"-1349,36",latin,dogan yilmaz
+C-02177,Begoña Martínez,ES,begonamartinez.2177@empresa.com,+119 838761712,10/04/2021,C,Valencia,"10950,84",latin,begona martinez
+C-00690,Søren Löwe,DE,sørenlowe.690@empresa.com,+160 621374221,10/04/2021,C,München,"3028,19",latin,soren lowe
+C-04839,Agnieszka Świątek,PL,agnieszkaswiatek.4839@empresa.com,+840 883725328,10/04/2021,C,Wroclaw,"4043,00",latin,agnieszka swiatek
+C-02271,ivan perez,ES,ivanperez.2271@empresa.com,+221 968490576,11/04/2021,A,Bilbao,"3390,11",latin,ivan perez
+C-01338,Sofía García,ES,sofiagarcia.1338@empresa.com,+795 905120989,11/04/2021,C,Valencia,"9718,48",latin,sofia garcia
+C-02319,Björn Andersson,SE,bjornandersson.2319@empresa.com,+507 730465873,12/04/2021,D,Göteborg,"3243,30",latin,bjorn andersson
+C-03131,İbrahim Özlem,TR,ibrahimozlem.3131@empresa.com,+534 825459951,13/04/2021,C,Istanbul,"5401,58",latin,ibrahim ozlem
+C-01346,Åsa Björnsson,SE,asabjornsson.1346@empresa.com,+525 804582895,13/04/2021,C,Uppsala,"5533,98",latin,asa bjornsson
+C-03612,Krzysztof Sędzik,PL,krzysztofsedzik.3612@empresa.com,+419 695134270,13/04/2021,D,Wroclaw,"1877,94",latin,krzysztof sedzik
+C-00457,Jurgen Bar,DE,jurgenbar.457@empresa.com,+473 855946544,15/04/2021,D,Köln,"10150,47",latin,jurgen bar
+C-01988,Greta Weiß,DE,gretaweiß.1988@empresa.com,+350 628436179,15/04/2021,D,München,"5405,76",latin,greta weiss
+C-05768,Mehmet Çelik,TR,mehmetcelik.5768@empresa.com,+609 856982913,15/04/2021,A,Istanbul,"3488,13",latin,mehmet celik
+C-05780,Manuel Sánchez,ES,manuelsanchez.5780@empresa.com,+158 979733480,15/04/2021,B,Madrid,"10891,65",latin,manuel sanchez
+C-01610,Manuel Fernández,ES,manuelfernandez.1610@empresa.com,+332 960723237,16/04/2021,D,Bilbao,"6099,85",latin,manuel fernandez
+C-05387,Núñez González,ES,nunezgonzalez.5387@empresa.com,+271 790210957,17/04/2021,C,Madrid,"6659,12",latin,nunez gonzalez
+C-00000,Núñez Fernández,ES,nunezfernandez.0@empresa.com,+971 976404227,17/04/2021,A,Valencia,"9551,61",latin,nunez fernandez
+C-05554,José Gómez,ES,josegomez.5554@empresa.com,,17/04/2021,A,Sevilla,"1083,70",latin,jose gomez
+C-02926,Björn Käufer,DE,bjornkaufer.2926@empresa.com,+804 797582907,18/04/2021,D,München,"-1041,63",latin,bjorn kaufer
+C-04394,	Jürgen Müller,DE,jurgenmuller.4394@empresa.com,+208 828941716,18/04/2021,B,Köln,"11864,67",latin,jurgen muller
+C-00605,عبدالله السويدي,AE,عبداللهالسويدي.605@empresa.com,+866 823709475,19/04/2021,B,Sharjah,"113,16",arabic,عبدالله السويدي
+C-03927,Greta Käufer,DE,gretakaufer.3927@empresa.com,,19/04/2021,A,Berlin,"3829,34",latin,greta kaufer
+C-04733,Manuel Pérez,ES,manuelperez.4733@empresa.com,+528 850969952,20/04/2021,A,Madrid,"5392,00",latin,manuel perez
+C-02555,سارة النجار,AE,سارةالنجار.2555@empresa.com,+596 931722622,20/04/2021,B,Dubai,"-602,20",arabic,سارة النجار
+C-04857,Sofía Pérez,ES,sofiaperez.4857@empresa.com,+479 662876499,20/04/2021,D,Madrid,"-598,92",latin,sofia perez
+C-01838,Sędzik Świątek,PL,sedzikswiatek.1838@empresa.com,+959 727842963,20/04/2021,A,Wroclaw,"-1892,11",latin,sedzik swiatek
+C-05377,Greta Groß,DE,gretagroß.5377@empresa.com,+681 681892805,21/04/2021,B,Berlin,"4850,72",latin,greta gross
+C-03763,Nuria Muñoz,ES,nuriamunoz.3763@empresa.com,+941 688557950,22/04/2021,D,Barcelona,"4294,61",latin,nuria munoz
+C-01225,Çavuş Özlem,TR,cavusozlem.1225@empresa.com,+98 661648241,23/04/2021,C,Izmir,"-782,18",latin,cavus ozlem
+C-02491,INGMAR ANDERSSON,SE,ingmarandersson.2491@empresa.com,+769 771187722,23/04/2021,A,Göteborg,"4799,40",latin,ingmar andersson
+C-04776,Łukasiewicz Świątek,PL,łukasiewiczswiatek.4776@empresa.com,+562 971251732,23/04/2021,A,Gdansk,"8074,05",latin,lukasiewicz swiatek
+C-02529,JAVIER LÓPEZ,ES,javierlopez.2529@empresa.com,+228 751569436,23/04/2021,C,Barcelona,"7526,35",latin,javier lopez
+C-01834,Şule Yılmaz,TR,suleyılmaz.1834@empresa.com,+156 729407826,24/04/2021,A,Ankara,"11349,83",latin,sule yilmaz
+C-02018,	KAYA YILMAZ,TR,kayayılmaz.2018@empresa.com,+352 948350830,24/04/2021,D,Antalya,"5820,06",latin,kaya yilmaz
+C-04383,	Schroder Weiß,DE,schroderweiß.4383@empresa.com,,24/04/2021,B,Düsseldorf,"7273,88",latin,schroder weiss
+C-03870,Agnieszka  Sędzik,PL,agnieszkasedzik.3870@empresa.com,+911 759238491,29/04/2021,C,Poznań,"1424,76",latin,agnieszka sedzik
+C-03440,عائشة النجار,AE,عايشةالنجار.3440@empresa.com,+315 922283573,29/04/2021,A,Sharjah,"79,20",arabic,عايشة النجار
+C-02129,Demir Öztürk,TR,demirozturk.2129@empresa.com,+157 998604968,29/04/2021,A,Bursa,"9257,92",latin,demir ozturk
+C-05014,Yılmaz Sahin,TR,yılmazsahin.5014@empresa.com,+473 874318349,01/05/2021,A,Antalya,"3786,59",latin,yilmaz sahin
+C-02141,Ćwikła Łukasiewicz,PL,cwikłałukasiewicz.2141@empresa.com,+950 610622123,01/05/2021,B,Poznań,"4716,76",latin,cwikla lukasiewicz
+C-05698,orjan soderberg,SE,orjansoderberg.5698@empresa.com,+532 736706225,02/05/2021,C,Estocolmo,"-1018,38",latin,orjan soderberg
+C-00263,حسن النعيمي,AE,حسنالنعيمي.263@empresa.com,+385 972768308,02/05/2021,C,Abu Dhabi,"9917,78",arabic,حسن النعيمي
+C-02747,Måns Öberg,SE,mansoberg.2747@empresa.com,+69 706460932,03/05/2021,C,Estocolmo,"7933,41",latin,mans oberg
+C-04342,Ångström  Öberg,SE,angstromoberg.4342@empresa.com,+230 857540702,03/05/2021,B,Estocolmo,"5041,16",latin,angstrom oberg
+C-00910,يوسف النجار,AE,يوسفالنجار.910@empresa.com,+411 876455833,03/05/2021,A,Sharjah,"5434,34",arabic,يوسف النجار
+C-02998,Weiß Groß,DE,weißgroß.2998@empresa.com,+335 722280163,04/05/2021,B,München,"4801,54",latin,weiss gross
+C-05682,Örjan Öberg,SE,orjanoberg.5682@empresa.com,+530 910632914,06/05/2021,A,Uppsala,"10340,28",latin,orjan oberg
+C-03936,Måns Lövgren,SE,manslovgren.3936@empresa.com,+136 635517272,06/05/2021,D,Göteborg,"6436,10",latin,mans lovgren
+C-04401,Weiß Bär,DE,weißbar.4401@empresa.com,+485 872122441,07/05/2021,D,Berlin,"6101,77",latin,weiss bar
+C-01740,çağatay güneş,TR,cagataygunes.1740@empresa.com,+95 844650302,07/05/2021,C,Bursa,"-182,74",latin,cagatay gunes
+C-01582,Käthe Schmidt,DE,katheschmidt.1582@empresa.com,+335 801383933,09/05/2021,A,Köln,"-599,36",latin,kathe schmidt
+C-01737,Şahin Kaya,TR,sahinkaya.1737@empresa.com,+143 834733228,09/05/2021,D,Ankara,"11989,87",latin,sahin kaya
+C-05322,Özlem Doğan,TR,ozlemdogan.5322@empresa.com,+940 611872947,09/05/2021,A,Istanbul,"5966,76",latin,ozlem dogan
+C-00225,Łukasz Ćwikła,PL,łukaszcwikła.225@empresa.com,+928 897354371,09/05/2021,C,Varsovia,"7722,94",latin,lukasz cwikla
+C-00757,Javier Pérez,ES,javierperez.757@empresa.com,+717 787781502,09/05/2021,B,Barcelona,"10042,74",latin,javier perez
+C-02538,Ğökhan  Çelik,TR,gokhancelik.2538@empresa.com,+693 978973166,11/05/2021,C,Antalya,"11506,54",latin,gokhan celik
+C-04681,Çavuş Öztürk,TR,cavusozturk.4681@empresa.com,+920 948862941,11/05/2021,D,Bursa,"125,02",latin,cavus ozturk
+C-02419,Antonio Gómez,ES,antoniogomez.2419@empresa.com,+556 814346354,11/05/2021,D,Sevilla,"2242,03",latin,antonio gomez
+C-05004,Şirin  Çelik,TR,sirincelik.5004@empresa.com,+474 892802817,11/05/2021,B,Bursa,"6930,08",latin,sirin celik
+C-01364,Çağatay Öztürk,TR,cagatayozturk.1364@empresa.com,+521 922456651,12/05/2021,A,Istanbul,"7059,14",latin,cagatay ozturk
+C-00166,Måns Andersson,SE,mansandersson.166@empresa.com,+313 663512859,13/05/2021,A,Uppsala,"10796,32",latin,mans andersson
+C-03486,Hans Schmidt,DE,hansschmidt.3486@empresa.com,+588 619294858,13/05/2021,D,Köln,"6599,27",latin,hans schmidt
+C-00820,Demir Çelik,TR,demircelik.820@empresa.com,+406 799651516,13/05/2021,B,Ankara,"7530,30",latin,demir celik
+C-02873,Milosz Kowalski,PL,miłoszkowalski.2873@empresa.com,+470 763596295,13/05/2021,B,Wroclaw,"703,88",latin,milosz kowalski
+C-03253,Çağatay Özlem,TR,cagatayozlem.3253@empresa.com,+248 716469285,15/05/2021,A,Antalya,"9128,35",latin,cagatay ozlem
+C-04521,mehmet gunes,TR,mehmetgunes.4521@empresa.com,+328 826973198,15/05/2021,C,Ankara,"11946,73",latin,mehmet gunes
+C-02392,Łukasiewicz  Ćwikła,PL,łukasiewiczcwikła.2392@empresa.com,+930 743592117,15/05/2021,B,Cracovia,"3955,86",latin,lukasiewicz cwikla
+C-00149,Kaya Öztürk,TR,kayaozturk.149@empresa.com,+761 757869263,16/05/2021,C,Istanbul,"274,09",latin,kaya ozturk
+C-05830,Ünal  Doğan,TR,unaldogan.5830@empresa.com,+422 783857141,17/05/2021,B,Izmir,"560,20",latin,unal dogan
+C-00649,Sören Björnsson,SE,sorenbjornsson.649@empresa.com,+945 716165403,17/05/2021,B,Göteborg,"7238,86",latin,soren bjornsson
+C-00399,Ayşe Şahin,TR,aysesahin.399@empresa.com,+604 869174620,18/05/2021,D,Istanbul,"7133,41",latin,ayse sahin
+C-02053,Yılmaz  Doğan,TR,yılmazdogan.2053@empresa.com,+295 692977870,18/05/2021,B,Izmir,"-1513,94",latin,yilmaz dogan
+C-01451,Ingmar Björnsson,SE,ingmarbjornsson.1451@empresa.com,+554 753238496,19/05/2021,A,Uppsala,"4945,18",latin,ingmar bjornsson
+C-03423,Güneş Şirin,TR,gunessirin.3423@empresa.com,+760 726969554,23/05/2021,B,Bursa,"738,29",latin,gunes sirin
+C-03564,İpek Özlem,TR,ipekozlem.3564@empresa.com,+878 954421131,24/05/2021,D,Bursa,"11574,04",latin,ipek ozlem
+C-05047,Ozlem Demir,TR,ozlemdemir.5047@empresa.com,+108 786119468,25/05/2021,B,Antalya,"5748,48",latin,ozlem demir
+C-05636,AYSE CELIK,TR,aysecelik.5636@empresa.com,+292 643965617,25/05/2021,A,Istanbul,"6737,64",latin,ayse celik
+C-05944,أحمد  السويدي,AE,احمدالسويدي.5944@empresa.com,+935 798572107,26/05/2021,D,Sharjah,"52,76",arabic,احمد السويدي
+C-01285,Groß Käufer,DE,großkaufer.1285@empresa.com,+912 918247261,26/05/2021,B,Berlin,"9363,49",latin,gross kaufer
+C-02197,Peña Rodríguez,ES,penarodriguez.2197@empresa.com,+566 981758653,28/05/2021,D,Madrid,"6251,65",latin,pena rodriguez
+C-04818,عبدالله الحسن,AE,عبداللهالحسن.4818@empresa.com,+426 778172751,31/05/2021,C,Al Ain,"-497,96",arabic,عبدالله الحسن
+C-00075,Kaya Kaya,TR,kayakaya.75@empresa.com,+506 894233215,31/05/2021,C,Izmir,"5015,74",latin,kaya kaya
+C-02364,ليلى  النعيمي,AE,ليلىالنعيمي.2364@empresa.com,+390 927414814,01/06/2021,D,Dubai,"7933,87",arabic,ليلى النعيمي
+C-05988,Käufer Schröder,DE,kauferschroder.5988@empresa.com,+855 847786318,02/06/2021,A,Düsseldorf,"8583,44",latin,kaufer schroder
+C-05823,Łukasiewicz Kowalski,PL,łukasiewiczkowalski.5823@empresa.com,+470 910257641,03/06/2021,D,Poznań,"2677,82",latin,lukasiewicz kowalski
+C-01095,Sören Ångström,SE,sorenangstrom.1095@empresa.com,+327 646372823,03/06/2021,C,Göteborg,"5805,19",latin,soren angstrom
+C-00883,Ægir Weiß,DE,ægirweiß.883@empresa.com,+621 742173746,04/06/2021,B,Hamburg,"2213,24",latin,aegir weiss
+C-02748,ŁUKASZ ŻÓŁKIEWSKI,PL,łukaszzołkiewski.2748@empresa.com,+701 772869190,05/06/2021,B,Cracovia,"-591,74",latin,lukasz zolkiewski
+C-05398,حسن خليل,AE,حسنخليل.5398@empresa.com,+701 826612845,06/06/2021,A,Sharjah,"4339,97",arabic,حسن خليل
+C-02427,nuria rodríguez,ES,nuriarodriguez.2427@empresa.com,+136 850209785,06/06/2021,B,Valencia,"-1429,26",latin,nuria rodriguez
+C-03529,Björn Ångström,SE,bjornangstrom.3529@empresa.com,+400 600920483,06/06/2021,C,Uppsala,"3104,31",latin,bjorn angstrom
+C-01944,عائشة الحسن,AE,عايشةالحسن.1944@empresa.com,+710 721736909,07/06/2021,A,Sharjah,"8345,35",arabic,عايشة الحسن
+C-01417,Mehmet Şirin,TR,mehmetsirin.1417@empresa.com,+934 722641128,07/06/2021,B,Bursa,"6479,30",latin,mehmet sirin
+C-00965,Şule Özlem,TR,suleozlem.965@empresa.com,+895 776825204,07/06/2021,B,Bursa,"6139,71",latin,sule ozlem
+C-04307,Søren Müller,DE,sørenmuller.4307@empresa.com,+359 787438346,07/06/2021,C,Köln,"-1558,89",latin,soren muller
+C-01781,Söderberg Öberg,SE,soderbergoberg.1781@empresa.com,+118 657271519,09/06/2021,A,Göteborg,"4544,63",latin,soderberg oberg
+C-02896,Hans Bär,DE,hansbar.2896@empresa.com,+966 833145878,10/06/2021,D,Köln,"5895,68",latin,hans bar
+C-05288,Żaneta Sędzik,PL,zanetasedzik.5288@empresa.com,+261 677992471,10/06/2021,D,Varsovia,"7052,57",latin,zaneta sedzik
+C-05165,Świątek Ćwikła,PL,swiatekcwikła.5165@empresa.com,+959 604661350,10/06/2021,D,Varsovia,"-1977,77",latin,swiatek cwikla
+C-00823,Agnieszka Cwikła,PL,agnieszkacwikła.823@empresa.com,+488 955901341,10/06/2021,D,Wroclaw,"8272,57",latin,agnieszka cwikla
+C-04101,Ægir Schmidt,DE,ægirschmidt.4101@empresa.com,+595 850489133,11/06/2021,A,München,"6739,85",latin,aegir schmidt
+C-03459,İbrahim Çavuş,TR,ibrahimcavus.3459@empresa.com,+80 803951896,11/06/2021,B,Istanbul,"2940,58",latin,ibrahim cavus
+C-05629,مريم خليل,AE,مريمخليل.5629@empresa.com,+198 736962964,11/06/2021,A,Abu Dhabi,"10996,01",arabic,مريم خليل
+C-01637,Kaya Şahin,TR,kayasahin.1637@empresa.com,+254 773260692,11/06/2021,D,Istanbul,"7772,50",latin,kaya sahin
+C-01592,Ibrahim Kaya,TR,ibrahimkaya.1592@empresa.com,+157 657436720,12/06/2021,B,Ankara,"10334,91",latin,ibrahim kaya
+C-04358,Çavuş Şirin,TR,cavussirin.4358@empresa.com,+269 864447464,13/06/2021,B,Izmir,"2246,08",latin,cavus sirin
+C-02284,Núñez Rodríguez,ES,nunezrodriguez.2284@empresa.com,+401 951591972,14/06/2021,B,Madrid,"3284,46",latin,nunez rodriguez
+C-03279,Søren  Weiß,DE,sørenweiß.3279@empresa.com,+855 787106777,14/06/2021,A,Berlin,"-509,56",latin,soren weiss
+C-01910,Şahin Şahin,TR,sahinsahin.1910@empresa.com,+497 787684826,15/06/2021,D,Istanbul,"11605,42",latin,sahin sahin
+C-05578,Iván Fernández,ES,ivanfernandez.5578@empresa.com,+300 629115798,16/06/2021,B,Valencia,"11510,49",latin,ivan fernandez
+C-00691,Świątek Żółkiewski,PL,swiatekzołkiewski.691@empresa.com,+548 696747466,16/06/2021,A,Gdansk,"8428,64",latin,swiatek zolkiewski
+C-01913,Yılmaz Öztürk,TR,yılmazozturk.1913@empresa.com,+413 922511419,16/06/2021,D,Antalya,"5373,83",latin,yilmaz ozturk
+C-04162,فاطمة النجار,AE,فاطمةالنجار.4162@empresa.com,+766 745872650,17/06/2021,C,Dubai,"3940,83",arabic,فاطمة النجار
+C-00215,يوسف العلي,AE,يوسفالعلي.215@empresa.com,,17/06/2021,C,Abu Dhabi,"6866,23",arabic,يوسف العلي
+C-03057,Sören Lövgren,SE,sorenlovgren.3057@empresa.com,+961 967957834,17/06/2021,B,Malmö,"5792,14",latin,soren lovgren
+C-05223,Elena Rodríguez,ES,elenarodriguez.5223@empresa.com,+44 974335172,21/06/2021,A,Sevilla,"5621,68",latin,elena rodriguez
+C-05243,Javier Rodríguez,ES,javierrodriguez.5243@empresa.com,+88 878376261,22/06/2021,B,Bilbao,"-465,42",latin,javier rodriguez
+C-00404,Greta  Müller,DE,gretamuller.404@empresa.com,+84 633623312,23/06/2021,A,Düsseldorf,"4455,81",latin,greta muller
+C-04786,مريم السويدي,AE,مريمالسويدي.4786@empresa.com,+648 856682661,24/06/2021,C,Al Ain,"10882,95",arabic,مريم السويدي
+C-04603,Ünal Öztürk,TR,unalozturk.4603@empresa.com,+262 719721934,24/06/2021,C,Izmir,"1643,41",latin,unal ozturk
+C-01923,Güneş Demir,TR,gunesdemir.1923@empresa.com,,25/06/2021,B,Antalya,"8776,10",latin,gunes demir
+C-03483,	Świątek Łukasiewicz,PL,swiatekłukasiewicz.3483@empresa.com,+99 664857421,25/06/2021,C,Varsovia,"3395,54",latin,swiatek lukasiewicz
+C-04988,Şule Güneş,TR,sulegunes.4988@empresa.com,+140 677610521,25/06/2021,D,Izmir,"5057,66",latin,sule gunes
+C-04012,عبدالله النعيمي,AE,عبداللهالنعيمي.4012@empresa.com,+919 602462635,26/06/2021,A,Al Ain,"-830,81",arabic,عبدالله النعيمي
+C-05460,Sofía Rodríguez,ES,sofiarodriguez.5460@empresa.com,+166 905910843,27/06/2021,B,Málaga,"10254,08",latin,sofia rodriguez
+C-03527,Ångström  Ångström,SE,angstromangstrom.3527@empresa.com,+86 965696917,27/06/2021,A,Estocolmo,"8440,00",latin,angstrom angstrom
+C-05388,cavus  demir,TR,cavusdemir.5388@empresa.com,+777 650146934,28/06/2021,B,Istanbul,"6569,41",latin,cavus demir
+C-05099,Çelik  Şahin,TR,celiksahin.5099@empresa.com,+140 660485101,28/06/2021,D,Antalya,"9703,49",latin,celik sahin
+C-02759,Doğan Şirin,TR,dogansirin.2759@empresa.com,+718 908871287,29/06/2021,B,Izmir,"10832,25",latin,dogan sirin
+C-00344,Wojciech Ćwikła,PL,wojciechcwikła.344@empresa.com,+758 765897226,29/06/2021,A,Wroclaw,"6695,02",latin,wojciech cwikla
+C-03841,Käufer Schmidt,DE,kauferschmidt.3841@empresa.com,+580 996970393,29/06/2021,A,Köln,"-112,95",latin,kaufer schmidt
+C-00132,Mehmet Demir,TR,mehmetdemir.132@empresa.com,+346 800240828,29/06/2021,B,Bursa,"4251,39",latin,mehmet demir
+C-05825,	sören andersson,SE,sorenandersson.5825@empresa.com,+746 928705756,30/06/2021,B,Uppsala,"7196,41",latin,soren andersson
+C-03074,Núñez Pérez,ES,nunezperez.3074@empresa.com,+211 676614552,01/07/2021,D,Valencia,"7684,54",latin,nunez perez
+C-05599,Hans Groß,DE,hansgroß.5599@empresa.com,+183 670945448,01/07/2021,A,München,"3103,50",latin,hans gross
+C-02481,Björn Schröder,DE,bjornschroder.2481@empresa.com,+426 709622772,01/07/2021,D,München,"8121,27",latin,bjorn schroder
+C-04148,Iván Sánchez,ES,ivansanchez.4148@empresa.com,+954 779633565,02/07/2021,B,Sevilla,"745,79",latin,ivan sanchez
+C-03136,Jürgen Schmidt,DE,jurgenschmidt.3136@empresa.com,+98 750339431,05/07/2021,A,Düsseldorf,"-24,83",latin,jurgen schmidt
+C-02950,	Şirin Şirin,TR,sirinsirin.2950@empresa.com,+921 974429455,05/07/2021,B,Bursa,"-462,99",latin,sirin sirin
+C-02226,ASA ANDERSSON,SE,asaandersson.2226@empresa.com,+104 615304538,06/07/2021,B,Uppsala,"11659,80",latin,asa andersson
+C-01693,Şule Öztürk,TR,suleozturk.1693@empresa.com,+43 680527507,07/07/2021,C,Istanbul,"3217,52",latin,sule ozturk
+C-01825,MULLER BAR,DE,mullerbar.1825@empresa.com,+400 741556316,08/07/2021,D,München,"10828,06",latin,muller bar
+C-03287,Löwe Weiß,DE,loweweiß.3287@empresa.com,+654 994393327,09/07/2021,C,Hamburg,"11009,97",latin,lowe weiss
+C-04572,Björn Weiß,DE,bjornweiß.4572@empresa.com,+237 712291578,12/07/2021,D,München,"10519,84",latin,bjorn weiss
+C-01857,demir cavus,TR,demircavus.1857@empresa.com,+647 763350900,13/07/2021,A,Istanbul,"2848,70",latin,demir cavus
+C-00647,Şahin Çelik,TR,sahincelik.647@empresa.com,+525 926790168,14/07/2021,D,Bursa,"7903,43",latin,sahin celik
+C-05084,Şahin  Demir,TR,sahindemir.5084@empresa.com,+64 648598383,14/07/2021,B,Bursa,"9987,57",latin,sahin demir
+C-05167,مريم النعيمي,AE,مريمالنعيمي.5167@empresa.com,+477 882378663,15/07/2021,A,Sharjah,"8359,03",arabic,مريم النعيمي
+C-00440,نورة  الشامسي,AE,نورةالشامسي.440@empresa.com,+204 759165144,15/07/2021,B,Dubai,"6438,66",arabic,نورة الشامسي
+C-03170,Ğökhan Şahin,TR,gokhansahin.3170@empresa.com,,17/07/2021,D,Ankara,"5880,36",latin,gokhan sahin
+C-03990,begona  garcia,ES,begonagarcia.3990@empresa.com,+212 851654548,23/07/2021,B,Madrid,"7214,85",latin,begona garcia
+C-01266,Ægir Müller,DE,ægirmuller.1266@empresa.com,+849 885812109,26/07/2021,C,Berlin,"10905,53",latin,aegir muller
+C-03087,يوسف الشامسي,AE,يوسفالشامسي.3087@empresa.com,+835 993463118,31/07/2021,B,Dubai,"1073,11",arabic,يوسف الشامسي
+C-04415,Ayşe Yılmaz,TR,ayseyılmaz.4415@empresa.com,+855 659331143,31/07/2021,D,Istanbul,"-488,49",latin,ayse yilmaz
+C-00472,Groß Löwe,DE,großlowe.472@empresa.com,+105 667258118,01/08/2021,A,Köln,"4288,94",latin,gross lowe
+C-00775,	Agnieszka Kowalski,PL,agnieszkakowalski.775@empresa.com,+789 759459106,03/08/2021,C,Wroclaw,"1298,54",latin,agnieszka kowalski
+C-04289,Łukasiewicz Sędzik,PL,łukasiewiczsedzik.4289@empresa.com,+767 739485423,03/08/2021,C,Gdansk,"10732,72",latin,lukasiewicz sedzik
+C-04944,Łukasiewicz  Żółkiewski,PL,łukasiewiczzołkiewski.4944@empresa.com,+759 846494864,04/08/2021,B,Poznań,"3926,13",latin,lukasiewicz zolkiewski
+C-04617,ÖRJAN LÖVGREN,SE,orjanlovgren.4617@empresa.com,+459 769949195,04/08/2021,B,Estocolmo,"6408,70",latin,orjan lovgren
+C-02366,İbrahim Şahin,TR,ibrahimsahin.2366@empresa.com,+534 862320874,06/08/2021,C,Antalya,"9196,30",latin,ibrahim sahin
+C-04018,Cwikla Zolkiewski,PL,cwikłazołkiewski.4018@empresa.com,+46 851556968,06/08/2021,A,Gdansk,"1769,47",latin,cwikla zolkiewski
+C-00703,ŻANETA ĆWIKŁA,PL,zanetacwikła.703@empresa.com,+311 948931719,07/08/2021,A,Wroclaw,"9062,84",latin,zaneta cwikla
+C-05146,Krzysztof  Ćwikła,PL,krzysztofcwikła.5146@empresa.com,+588 943971501,07/08/2021,D,Varsovia,"1053,58",latin,krzysztof cwikla
+C-04791,محمد المنصوري,AE,محمدالمنصوري.4791@empresa.com,+435 725935922,09/08/2021,B,Dubai,"4743,23",arabic,محمد المنصوري
+C-03473,خالد  الحسن,AE,خالدالحسن.3473@empresa.com,+877 854200555,10/08/2021,A,Al Ain,"4674,64",arabic,خالد الحسن
+C-05770,Ægir Löwe,DE,ægirlowe.5770@empresa.com,+317 692416347,14/08/2021,B,Köln,"-179,94",latin,aegir lowe
+C-05131,Elena Martínez,ES,elenamartinez.5131@empresa.com,+513 863739840,14/08/2021,B,Valencia,"-242,62",latin,elena martinez
+C-00756,María Gómez,ES,mariagomez.756@empresa.com,+127 856751291,15/08/2021,D,Sevilla,"11422,61",latin,maria gomez
+C-01337,عائشة خليل,AE,عايشةخليل.1337@empresa.com,+141 813166733,16/08/2021,C,Al Ain,"4893,39",arabic,عايشة خليل
+C-00416,فاطمة خليل,AE,فاطمةخليل.416@empresa.com,+694 852310724,16/08/2021,A,Sharjah,"-1025,41",arabic,فاطمة خليل
+C-04040,ليلى الحسن,AE,ليلىالحسن.4040@empresa.com,+525 716558121,16/08/2021,D,Al Ain,"3194,06",arabic,ليلى الحسن
+C-01900,Krzysztof Żółkiewski,PL,krzysztofzołkiewski.1900@empresa.com,+86 733961407,16/08/2021,D,Gdansk,"2257,42",latin,krzysztof zolkiewski
+C-03954,محمد النعيمي,AE,محمدالنعيمي.3954@empresa.com,+219 802643878,16/08/2021,C,Sharjah,"10688,34",arabic,محمد النعيمي
+C-04807,Bär Käufer,DE,barkaufer.4807@empresa.com,+441 867476550,17/08/2021,C,München,"954,40",latin,bar kaufer
+C-01614,Ömer Öztürk,TR,omerozturk.1614@empresa.com,+124 739609589,17/08/2021,B,Bursa,"9664,33",latin,omer ozturk
+C-00224,نورة السويدي,AE,نورةالسويدي.224@empresa.com,+204 662248203,18/08/2021,D,Sharjah,"-1568,79",arabic,نورة السويدي
+C-05426,محمد الحسن,AE,محمدالحسن.5426@empresa.com,+490 839539962,18/08/2021,A,Dubai,"11531,26",arabic,محمد الحسن
+C-01249,Ünal Güneş,TR,unalgunes.1249@empresa.com,+325 882827197,22/08/2021,A,Bursa,"652,70",latin,unal gunes
+C-00980,	Gülsüm Çavuş,TR,gulsumcavus.980@empresa.com,+573 643182735,22/08/2021,C,Ankara,"6805,33",latin,gulsum cavus
+C-01282,Wojciech Kowalski,PL,wojciechkowalski.1282@empresa.com,+305 759702270,22/08/2021,C,Wroclaw,"1192,20",latin,wojciech kowalski
+C-01321,Sedzik Cwikła,PL,sedzikcwikła.1321@empresa.com,+497 784701106,23/08/2021,C,Poznań,"11457,92",latin,sedzik cwikla
+C-02909,عائشة السويدي,AE,عايشةالسويدي.2909@empresa.com,+790 754755473,24/08/2021,D,Sharjah,"10467,85",arabic,عايشة السويدي
+C-00637,	محمد الشامسي,AE,محمدالشامسي.637@empresa.com,,24/08/2021,A,Abu Dhabi,"3688,48",arabic,محمد الشامسي
+C-03813,Yılmaz Çelik,TR,yılmazcelik.3813@empresa.com,+139 738519568,25/08/2021,B,Bursa,"6292,73",latin,yilmaz celik
+C-03454,Ünal Şirin,TR,unalsirin.3454@empresa.com,+859 732780125,26/08/2021,D,Izmir,"4597,48",latin,unal sirin
+C-04284,Kaya Özlem,TR,kayaozlem.4284@empresa.com,+423 801795357,27/08/2021,B,Ankara,"11826,32",latin,kaya ozlem
+C-00869,Doğan Güneş,TR,dogangunes.869@empresa.com,+385 898832685,29/08/2021,C,Bursa,"8445,45",latin,dogan gunes
+C-02499,نورة العلي,AE,نورةالعلي.2499@empresa.com,+154 916587947,29/08/2021,B,Dubai,"10771,85",arabic,نورة العلي
+C-02731,Ğökhan  Kaya,TR,gokhankaya.2731@empresa.com,+327 675281541,30/08/2021,C,Ankara,"11477,04",latin,gokhan kaya
+C-01336,Żaneta Żółkiewski,PL,zanetazołkiewski.1336@empresa.com,+556 925975338,31/08/2021,A,Wroclaw,"1055,24",latin,zaneta zolkiewski
+C-00476,أحمد الحسن,AE,احمدالحسن.476@empresa.com,+359 911567564,31/08/2021,B,Abu Dhabi,"6562,52",arabic,احمد الحسن
+C-04620,أحمد الشامسي,AE,احمدالشامسي.4620@empresa.com,+167 965647316,03/09/2021,C,Dubai,"10235,49",arabic,احمد الشامسي
+C-04184,Käthe Käufer,DE,kathekaufer.4184@empresa.com,+270 774540520,05/09/2021,D,Berlin,"5301,88",latin,kathe kaufer
+C-04354,Jürgen  Schröder,DE,jurgenschroder.4354@empresa.com,+120 887886936,07/09/2021,D,München,"9262,58",latin,jurgen schroder
+C-04010,يوسف خليل,AE,يوسفخليل.4010@empresa.com,+631 705212989,08/09/2021,B,Sharjah,"11285,69",arabic,يوسف خليل
+C-01876,Ayşe Öztürk,TR,ayseozturk.1876@empresa.com,+900 708569414,09/09/2021,A,Izmir,"-208,42",latin,ayse ozturk
+C-00693,Yılmaz Kaya,TR,yılmazkaya.693@empresa.com,+731 664168356,11/09/2021,A,Ankara,"644,25",latin,yilmaz kaya
+C-00853,Elena Pérez,ES,elenaperez.853@empresa.com,+578 981156963,12/09/2021,B,Valencia,"8693,08",latin,elena perez
+C-00940,حسن الحسن,AE,حسنالحسن.940@empresa.com,+837 761520680,12/09/2021,A,Dubai,"2617,63",arabic,حسن الحسن
+C-01489,يوسف السويدي,AE,يوسفالسويدي.1489@empresa.com,+614 959648913,23/09/2021,B,Al Ain,"-1716,04",arabic,يوسف السويدي
+C-04379,Müller Löwe,DE,mullerlowe.4379@empresa.com,+633 688250414,25/09/2021,B,Berlin,"-1486,94",latin,muller lowe
+C-04867,Şirin Güneş,TR,siringunes.4867@empresa.com,+760 959136225,25/09/2021,D,Ankara,"-1416,39",latin,sirin gunes
+C-03786,Ünal Yılmaz,TR,unalyılmaz.3786@empresa.com,+405 740202532,29/09/2021,A,Ankara,"-1268,72",latin,unal yilmaz
+C-00174,Grzegorz Łukasiewicz,PL,grzegorzłukasiewicz.174@empresa.com,+521 745515610,01/10/2021,B,Cracovia,"7045,03",latin,grzegorz lukasiewicz
+C-05359,Świątek Świątek,PL,swiatekswiatek.5359@empresa.com,+920 857639457,02/10/2021,C,Poznań,"11826,15",latin,swiatek swiatek
+C-02518,Gülsüm Şirin,TR,gulsumsirin.2518@empresa.com,+428 674776703,06/10/2021,A,Bursa,"2432,08",latin,gulsum sirin
+C-04239,Gülsüm Şahin,TR,gulsumsahin.4239@empresa.com,+373 920387113,06/10/2021,B,Izmir,"6743,26",latin,gulsum sahin
+C-04368,محمد خليل,AE,محمدخليل.4368@empresa.com,+557 799983497,07/10/2021,A,Al Ain,"7758,17",arabic,محمد خليل
+C-05236,أحمد النجار,AE,احمدالنجار.5236@empresa.com,+503 852768984,08/10/2021,C,Al Ain,"11703,40",arabic,احمد النجار
+C-03698,Demir Demir,TR,demirdemir.3698@empresa.com,,09/10/2021,D,Ankara,"10223,50",latin,demir demir
+C-00425,Löwe  Schröder,DE,loweschroder.425@empresa.com,+305 743893782,11/10/2021,D,München,"10773,37",latin,lowe schroder
+C-00085,Yılmaz Özlem,TR,yılmazozlem.85@empresa.com,+136 737206332,11/10/2021,B,Istanbul,"7043,02",latin,yilmaz ozlem
+C-05320,حسن  المنصوري,AE,حسنالمنصوري.5320@empresa.com,+130 736210381,12/10/2021,B,Abu Dhabi,"290,72",arabic,حسن المنصوري
+C-02321,Doğan Çavuş,TR,dogancavus.2321@empresa.com,+640 637490887,14/10/2021,C,Bursa,"9158,05",latin,dogan cavus
+C-03538,Jürgen Weiß,DE,jurgenweiß.3538@empresa.com,+354 960785759,18/10/2021,A,Hamburg,"2364,88",latin,jurgen weiss
+C-00173,يوسف النعيمي,AE,يوسفالنعيمي.173@empresa.com,,18/10/2021,B,Sharjah,"-1084,33",arabic,يوسف النعيمي
+C-01334,Sędzik Żółkiewski,PL,sedzikzołkiewski.1334@empresa.com,+163 801927128,20/10/2021,B,Varsovia,"-959,56",latin,sedzik zolkiewski
+C-03128,Måns  Ångström,SE,mansangstrom.3128@empresa.com,+381 822184877,21/10/2021,D,Estocolmo,"4959,18",latin,mans angstrom
+C-02917,Şule Demir,TR,suledemir.2917@empresa.com,+239 716262895,22/10/2021,B,Antalya,"11918,71",latin,sule demir
+C-04404,محمد السويدي,AE,محمدالسويدي.4404@empresa.com,,22/10/2021,B,Al Ain,"5723,28",arabic,محمد السويدي
+C-02054,مريم العلي,AE,مريمالعلي.2054@empresa.com,+49 688759248,24/10/2021,D,Abu Dhabi,"1272,97",arabic,مريم العلي
+C-02506,Güneş Güneş,TR,gunesgunes.2506@empresa.com,+343 937469404,27/10/2021,A,Bursa,"383,86",latin,gunes gunes
+C-01316,José  Pérez,ES,joseperez.1316@empresa.com,+374 753352371,28/10/2021,C,Sevilla,"11226,69",latin,jose perez
+C-01957,فاطمة الشامسي,AE,فاطمةالشامسي.1957@empresa.com,+775 632889379,31/10/2021,D,Abu Dhabi,"5181,32",arabic,فاطمة الشامسي
+C-03586,Søren Schmidt,DE,sørenschmidt.3586@empresa.com,+333 796236446,31/10/2021,A,Düsseldorf,"3287,28",latin,soren schmidt
+C-02440,Güneş Yılmaz,TR,gunesyılmaz.2440@empresa.com,+78 713655830,31/10/2021,A,Izmir,"1879,86",latin,gunes yilmaz
+C-05461,Kaufer Kaufer,DE,kauferkaufer.5461@empresa.com,+862 787608207,01/11/2021,D,Berlin,"5636,61",latin,kaufer kaufer
+C-03852,Şule Şirin,TR,sulesirin.3852@empresa.com,+403 610639931,02/11/2021,D,Istanbul,"8468,70",latin,sule sirin
+C-03562,Güneş Şahin,TR,gunessahin.3562@empresa.com,+920 668406638,03/11/2021,D,Bursa,"8551,20",latin,gunes sahin
+C-04197,	Grzegorz Żółkiewski,PL,grzegorzzołkiewski.4197@empresa.com,+89 696829252,06/11/2021,A,Varsovia,"1068,97",latin,grzegorz zolkiewski
+C-03094,Ğökhan Doğan,TR,gokhandogan.3094@empresa.com,+426 732553827,07/11/2021,A,Bursa,"3752,98",latin,gokhan dogan
+C-04967,Björn Öberg,SE,bjornoberg.4967@empresa.com,+468 942697128,07/11/2021,B,Uppsala,"329,91",latin,bjorn oberg
+C-01468,Ünal Çelik,TR,unalcelik.1468@empresa.com,+637 745774150,09/11/2021,B,Antalya,"10891,75",latin,unal celik
+C-01533,İPEK YILMAZ,TR,ipekyılmaz.1533@empresa.com,+664 658241187,10/11/2021,B,Ankara,"7567,16",latin,ipek yilmaz
+C-02650,Lucía Martínez,ES,luciamartinez.2650@empresa.com,+314 720328302,11/11/2021,A,Málaga,"6516,93",latin,lucia martinez
+C-01742,Yılmaz Demir,TR,yılmazdemir.1742@empresa.com,+213 637737158,12/11/2021,D,Antalya,"9257,39",latin,yilmaz demir
+C-01311,Çelik Çavuş,TR,celikcavus.1311@empresa.com,+538 727534843,15/11/2021,B,Istanbul,"5062,30",latin,celik cavus
+C-04207,Ayşe Güneş,TR,aysegunes.4207@empresa.com,+463 671970127,16/11/2021,D,Istanbul,"8229,76",latin,ayse gunes
+C-02605,Doğan Çelik,TR,dogancelik.2605@empresa.com,,16/11/2021,A,Bursa,"710,04",latin,dogan celik
+C-05728,sahin ozlem,TR,sahinozlem.5728@empresa.com,+222 767364990,18/11/2021,C,Antalya,"4264,19",latin,sahin ozlem
+C-05423,Doğan Demir,TR,dogandemir.5423@empresa.com,+613 829443465,20/11/2021,D,Izmir,"-886,79",latin,dogan demir
+C-04619,	Güneş  Doğan,TR,gunesdogan.4619@empresa.com,+945 986712814,23/11/2021,A,Istanbul,"3087,73",latin,gunes dogan
+C-05544,Çağatay Şahin,TR,cagataysahin.5544@empresa.com,+873 681743581,25/11/2021,A,Bursa,"258,05",latin,cagatay sahin
+C-01925,Miłosz Ćwikła,PL,miłoszcwikła.1925@empresa.com,+666 625327206,25/11/2021,B,Poznań,"4649,64",latin,milosz cwikla
+C-04436,Søren Groß,DE,sørengroß.4436@empresa.com,+218 790417538,27/11/2021,D,Düsseldorf,"7983,48",latin,soren gross
+C-03468,SCHRODER LOWE,DE,schroderlowe.3468@empresa.com,+939 773198332,28/11/2021,B,München,"-314,67",latin,schroder lowe
+C-05741,İpek Kaya,TR,ipekkaya.5741@empresa.com,+248 834512165,28/11/2021,D,Istanbul,"11766,23",latin,ipek kaya
+C-00651,Groß Schmidt,DE,großschmidt.651@empresa.com,+86 729654831,28/11/2021,B,Köln,"8718,86",latin,gross schmidt
+C-05218,Şirin  Çavuş,TR,sirincavus.5218@empresa.com,+686 718109696,01/12/2021,C,Ankara,"9607,21",latin,sirin cavus
+C-05811,Müller Schmidt,DE,mullerschmidt.5811@empresa.com,+414 610967872,01/12/2021,D,Berlin,"8875,85",latin,muller schmidt
+C-03981,Ångström Björnsson,SE,angstrombjornsson.3981@empresa.com,+573 851421105,03/12/2021,C,Göteborg,"11695,75",latin,angstrom bjornsson
+C-01090,Gülsüm Demir,TR,gulsumdemir.1090@empresa.com,+191 851921537,04/12/2021,A,Antalya,"11104,69",latin,gulsum demir
+C-01766,Wojciech Sędzik,PL,wojciechsedzik.1766@empresa.com,+405 785628255,08/12/2021,B,Wroclaw,"7771,91",latin,wojciech sedzik
+C-00397,Käufer Bär,DE,kauferbar.397@empresa.com,+514 686272685,08/12/2021,B,Düsseldorf,"7948,65",latin,kaufer bar
+C-01385,Bär Groß,DE,bargroß.1385@empresa.com,+597 887367542,10/12/2021,D,Hamburg,"5807,20",latin,bar gross
+C-03184,Müller Weiß,DE,mullerweiß.3184@empresa.com,+395 748291408,12/12/2021,A,Düsseldorf,"7732,91",latin,muller weiss
+C-01556,Şule Çavuş,TR,sulecavus.1556@empresa.com,+530 919153711,13/12/2021,B,Istanbul,"1792,40",latin,sule cavus
+C-01313,Löwe Löwe,DE,lowelowe.1313@empresa.com,+714 898965163,13/12/2021,C,Düsseldorf,"751,72",latin,lowe lowe
+C-04193,	سارة خليل,AE,سارةخليل.4193@empresa.com,+953 733105272,13/12/2021,D,Al Ain,"-1190,65",arabic,سارة خليل
+C-05394,Bär Bär,DE,barbar.5394@empresa.com,+962 959456166,15/12/2021,B,Berlin,"2566,13",latin,bar bar
+C-02012,Ibrahim  Çelik,TR,ibrahimcelik.2012@empresa.com,+668 939307789,15/12/2021,C,Ankara,"1692,11",latin,ibrahim celik
+C-04621,Sędzik Kowalski,PL,sedzikkowalski.4621@empresa.com,+842 875661346,19/12/2021,D,Cracovia,"7657,47",latin,sedzik kowalski
+C-04126,Grzegorz Świątek,PL,grzegorzswiatek.4126@empresa.com,+88 750747391,20/12/2021,C,Cracovia,"11440,90",latin,grzegorz swiatek
+C-01640,Schröder Schröder,DE,schroderschroder.1640@empresa.com,+281 903829673,21/12/2021,B,Düsseldorf,"6010,63",latin,schroder schroder
+C-02320,Bär Löwe,DE,barlowe.2320@empresa.com,+915 712146880,22/12/2021,D,Köln,"8783,30",latin,bar lowe
+C-03385,José González,ES,josegonzalez.3385@empresa.com,+772 647148587,23/12/2021,D,Sevilla,"11674,45",latin,jose gonzalez
+C-03354,Søren Käufer,DE,sørenkaufer.3354@empresa.com,+386 619809203,24/12/2021,B,Düsseldorf,"786,08",latin,soren kaufer
+C-04425,GULSUM OZLEM,TR,gulsumozlem.4425@empresa.com,+286 647365530,26/12/2021,A,Ankara,"1984,17",latin,gulsum ozlem
+C-00662,łukasiewicz łukasiewicz,PL,łukasiewiczłukasiewicz.662@empresa.com,+825 994526797,26/12/2021,B,Cracovia,"254,05",latin,lukasiewicz lukasiewicz
+C-05257,Ömer Çelik,TR,omercelik.5257@empresa.com,+211 785572487,28/12/2021,D,Ankara,"7129,49",latin,omer celik
+C-01624,MEHMET OZTURK,TR,mehmetozturk.1624@empresa.com,+366 672604331,28/12/2021,D,Ankara,"4971,67",latin,mehmet ozturk
+C-04558,Mehmet Çavuş,TR,mehmetcavus.4558@empresa.com,+373 991364985,02/01/2022,C,Izmir,"8444,24",latin,mehmet cavus
+C-02390,عائشة المنصوري,AE,عايشةالمنصوري.2390@empresa.com,+442 910622307,03/01/2022,D,Abu Dhabi,"7284,92",arabic,عايشة المنصوري
+C-03708,Käthe Groß,DE,kathegroß.3708@empresa.com,+938 672950825,04/01/2022,A,Köln,"7029,00",latin,kathe gross
+C-05871,Öztürk Doğan,TR,ozturkdogan.5871@empresa.com,+108 694284134,05/01/2022,B,Istanbul,"7299,65",latin,ozturk dogan
+C-01802,Bjorn Lowe,DE,bjornlowe.1802@empresa.com,+72 846462570,06/01/2022,A,Berlin,"2338,73",latin,bjorn lowe
+C-SPEC-0074,أَحْمَد,AE,احمد.74@caso.especial,+34 600000074,06/01/2022,A,Sharjah,"3608,04",arabic,احمد
+C-05200,نورة خليل,AE,نورةخليل.5200@empresa.com,,06/01/2022,D,Sharjah,"11110,77",arabic,نورة خليل
+C-SPEC-0015,Mueller,DE,mueller.15@caso.especial,,08/01/2022,A,Düsseldorf,"2015,15",latin,mueller
+C-05486,Agnieszka  Żółkiewski,PL,agnieszkazołkiewski.5486@empresa.com,+654 982693349,09/01/2022,D,Gdansk,"6013,62",latin,agnieszka zolkiewski
+C-04439,سارة السويدي,AE,سارةالسويدي.4439@empresa.com,+370 770147679,10/01/2022,C,Abu Dhabi,"6926,72",arabic,سارة السويدي
+C-03754,Bjorn Soderberg,SE,bjornsoderberg.3754@empresa.com,+393 786402638,12/01/2022,A,Uppsala,"-732,70",latin,bjorn soderberg
+C-SPEC-0112,Jürgen,DE,jurgen.112@caso.especial,+34 600000112,12/01/2022,D,München,"982,50",latin,jurgen
+C-05095,Çavuş Yılmaz,TR,cavusyılmaz.5095@empresa.com,+607 837447779,13/01/2022,C,Izmir,"1745,01",latin,cavus yilmaz
+C-SPEC-0146,Đorđe,ES,đorđe.146@caso.especial,+34 600000146,15/01/2022,D,Bilbao,"3414,77",latin,dorde
+C-00982,خالد النعيمي,AE,خالدالنعيمي.982@empresa.com,+872 677968579,21/01/2022,A,Abu Dhabi,"573,97",arabic,خالد النعيمي
+C-03176,Gross Schröder,DE,großschroder.3176@empresa.com,+379 776421512,22/01/2022,A,Hamburg,"5292,90",latin,gross schroder
+C-03183,يوسف الحسن,AE,يوسفالحسن.3183@empresa.com,+535 781190908,23/01/2022,A,Abu Dhabi,"4637,20",arabic,يوسف الحسن
+C-SPEC-0068,محمد,AE,محمد.68@caso.especial,+34 600000068,24/01/2022,D,Al Ain,"67,12",arabic,محمد
+C-03398,Doğan Doğan,TR,dogandogan.3398@empresa.com,+606 890347243,25/01/2022,A,Izmir,"11899,03",latin,dogan dogan
+C-01443,Ayşe Kaya,TR,aysekaya.1443@empresa.com,+165 897324198,25/01/2022,B,Bursa,"7544,85",latin,ayse kaya
+C-01858,Ğökhan Demir,TR,gokhandemir.1858@empresa.com,+457 968628186,26/01/2022,D,Antalya,"7197,45",latin,gokhan demir
+C-05867,	Öztürk Şirin,TR,ozturksirin.5867@empresa.com,+721 697560167,27/01/2022,D,Izmir,"7887,45",latin,ozturk sirin
+C-00120,SAHIN GUNES,TR,sahingunes.120@empresa.com,+463 786482624,30/01/2022,C,Bursa,"1009,14",latin,sahin gunes
+C-04827,WOJCIECH ŁUKASIEWICZ,PL,wojciechłukasiewicz.4827@empresa.com,+91 664561189,31/01/2022,B,Wroclaw,"9360,97",latin,wojciech lukasiewicz
+C-03636,Öztürk Özlem,TR,ozturkozlem.3636@empresa.com,+415 893132620,02/02/2022,B,Ankara,"-657,73",latin,ozturk ozlem
+C-01288,Käthe Müller,DE,kathemuller.1288@empresa.com,+119 700414485,06/02/2022,D,Köln,"4097,54",latin,kathe muller
+C-01606,Javier Martínez,ES,javiermartinez.1606@empresa.com,,11/02/2022,C,Bilbao,"589,09",latin,javier martinez
+C-05604,Ægir Groß,DE,ægirgroß.5604@empresa.com,+516 933846754,11/02/2022,D,Hamburg,"11791,91",latin,aegir gross
+C-05358,Demir Özlem,TR,demirozlem.5358@empresa.com,+863 804190544,15/02/2022,C,Bursa,"8157,82",latin,demir ozlem
+C-03632,İbrahim Demir,TR,ibrahimdemir.3632@empresa.com,,17/02/2022,C,Istanbul,"883,35",latin,ibrahim demir
+C-02570,Agnieszka Łukasiewicz,PL,agnieszkałukasiewicz.2570@empresa.com,+567 913276861,21/02/2022,A,Cracovia,"10833,64",latin,agnieszka lukasiewicz
+C-SPEC-0079,Al-Farsi,AE,al-farsi.79@caso.especial,+34 600000079,25/02/2022,C,Al Ain,"3903,30",latin,al-farsi
+C-01358,Çelik Demir,TR,celikdemir.1358@empresa.com,+940 640165577,25/02/2022,D,Bursa,"754,46",latin,celik demir
+C-02004,Çavuş Çelik,TR,cavuscelik.2004@empresa.com,+406 743835377,25/02/2022,C,Antalya,"11494,15",latin,cavus celik
+C-01547,عائشة الشامسي,AE,عايشةالشامسي.1547@empresa.com,+958 678761561,27/02/2022,C,Abu Dhabi,"5501,61",arabic,عايشة الشامسي
+C-02474,Ayşe Şirin,TR,aysesirin.2474@empresa.com,,28/02/2022,D,Bursa,"2885,22",latin,ayse sirin
+C-SPEC-0030,Straße,DE,straße.30@caso.especial,+34 600000030,28/02/2022,A,Berlin,"1899,78",latin,strasse
+C-SPEC-0111,Lukasz,PL,lukasz.111@caso.especial,+34 600000111,01/03/2022,D,Varsovia,"2568,90",latin,lukasz
+C-00373,Kaya Doğan,TR,kayadogan.373@empresa.com,+313 708180241,03/03/2022,C,Istanbul,"3158,25",latin,kaya dogan
+C-01566,Çağatay Çelik,TR,cagataycelik.1566@empresa.com,+191 866633835,03/03/2022,D,Istanbul,"9909,68",latin,cagatay celik
+C-05809,خالد النجار,AE,خالدالنجار.5809@empresa.com,+501 816119880,05/03/2022,A,Abu Dhabi,"6185,59",arabic,خالد النجار
+C-02420,Özlem Çelik,TR,ozlemcelik.2420@empresa.com,+344 956444778,06/03/2022,C,Izmir,"3868,07",latin,ozlem celik
+C-02350,Demir Şahin,TR,demirsahin.2350@empresa.com,+916 723852665,06/03/2022,D,Bursa,"1088,56",latin,demir sahin
+C-04483,Ğökhan Özlem,TR,gokhanozlem.4483@empresa.com,+213 929604566,06/03/2022,C,Izmir,"1579,96",latin,gokhan ozlem
+C-00527,Gülsüm Öztürk,TR,gulsumozturk.527@empresa.com,+150 752861444,11/03/2022,B,Izmir,"5132,79",latin,gulsum ozturk
+C-03294,Çelik Doğan,TR,celikdogan.3294@empresa.com,,29/03/2022,C,Ankara,"7311,02",latin,celik dogan
+C-03685,Güneş Kaya,TR,guneskaya.3685@empresa.com,+292 737318127,01/04/2022,C,Izmir,"1010,22",latin,gunes kaya
+C-01126,ğökhan güneş,TR,gokhangunes.1126@empresa.com,+758 972694396,08/04/2022,B,Ankara,"5342,20",latin,gokhan gunes
+C-00282,مريم النجار,AE,مريمالنجار.282@empresa.com,+176 854639339,11/04/2022,A,Al Ain,"5662,34",arabic,مريم النجار
+C-04282,مريم  المنصوري,AE,مريمالمنصوري.4282@empresa.com,+263 909417603,11/04/2022,D,Dubai,"10727,30",arabic,مريم المنصوري
+C-SPEC-0129,Çağlayan,TR,caglayan.129@caso.especial,+34 600000129,11/04/2022,C,Antalya,"184,01",latin,caglayan
+C-00655,Löwe Bär,DE,lowebar.655@empresa.com,+417 730392670,14/04/2022,B,Düsseldorf,"5963,24",latin,lowe bar
+C-03017,Hans Schröder,DE,hansschroder.3017@empresa.com,+915 696856992,16/04/2022,B,Düsseldorf,"7124,47",latin,hans schroder
+C-00994,İpek  Şirin,TR,ipeksirin.994@empresa.com,+108 759897756,19/04/2022,A,Ankara,"8660,29",latin,ipek sirin
+C-04044,Çavuş Kaya,TR,cavuskaya.4044@empresa.com,+689 622779699,21/04/2022,A,Ankara,"4655,79",latin,cavus kaya
+C-02274,IPEK DEMIR,TR,ipekdemir.2274@empresa.com,+82 678860394,23/04/2022,D,Bursa,"445,74",latin,ipek demir
+C-SPEC-0024,Müller,DE,muller.24@caso.especial,+34 600000024,27/04/2022,C,Hamburg,"4270,87",latin,muller
+C-05516,Ayşe  Doğan,TR,aysedogan.5516@empresa.com,+750 689592904,29/04/2022,A,Antalya,"9853,79",latin,ayse dogan
+C-01203,Yılmaz Şirin,TR,yılmazsirin.1203@empresa.com,+934 872155485,01/05/2022,A,Istanbul,"8080,35",latin,yilmaz sirin
+C-03939,Özlem Şirin,TR,ozlemsirin.3939@empresa.com,+438 831512419,02/05/2022,D,Bursa,"2947,81",latin,ozlem sirin
+C-00586,سارة العلي,AE,سارةالعلي.586@empresa.com,+368 746895871,03/05/2022,A,Dubai,"915,81",arabic,سارة العلي
+C-01465,Greta Schmidt,DE,gretaschmidt.1465@empresa.com,+864 614667813,03/05/2022,B,Köln,"8878,92",latin,greta schmidt
+C-03696,فاطمة السويدي,AE,فاطمةالسويدي.3696@empresa.com,+364 898301327,11/05/2022,C,Al Ain,"5084,38",arabic,فاطمة السويدي
+C-02663,Kaya Güneş,TR,kayagunes.2663@empresa.com,+819 691319432,12/05/2022,D,Izmir,"6696,03",latin,kaya gunes
+C-SPEC-0053,AEON,ES,aeon.53@caso.especial,+34 600000053,17/05/2022,C,Barcelona,"4667,36",latin,aeon
+C-04860,Grzegorz Kowalski,PL,grzegorzkowalski.4860@empresa.com,+209 978262296,19/05/2022,C,Cracovia,"5676,19",latin,grzegorz kowalski
+C-00133,şirin demir,TR,sirindemir.133@empresa.com,+709 617111652,21/05/2022,C,Bursa,"5752,09",latin,sirin demir
+C-01999,Demir Doğan,TR,demirdogan.1999@empresa.com,+643 783134911,21/05/2022,B,Antalya,"9236,88",latin,demir dogan
+C-05357,Doğan Kaya,TR,dogankaya.5357@empresa.com,+393 665182117,22/05/2022,C,Istanbul,"11045,66",latin,dogan kaya
+C-05574,Çelik Kaya,TR,celikkaya.5574@empresa.com,+918 697334640,22/05/2022,B,Antalya,"-256,05",latin,celik kaya
+C-SPEC-0087,Ahmad,AE,ahmad.87@caso.especial,,22/05/2022,B,Sharjah,"3581,57",latin,ahmad
+C-05052,İpek  Çelik,TR,ipekcelik.5052@empresa.com,+775 741729600,14/06/2022,C,Izmir,"4912,06",latin,ipek celik
+C-05051,Gülsüm Kaya,TR,gulsumkaya.5051@empresa.com,+444 739353277,15/06/2022,B,Izmir,"10811,90",latin,gulsum kaya
+C-02413,Greta Löwe,DE,gretalowe.2413@empresa.com,+743 608772496,24/06/2022,A,München,"8431,52",latin,greta lowe
+C-00098,käthe  schröder,DE,katheschroder.98@empresa.com,+802 779800776,30/06/2022,A,München,"2150,29",latin,kathe schroder
+C-04991,أحمد المنصوري,AE,احمدالمنصوري.4991@empresa.com,+895 977168691,03/07/2022,B,Sharjah,"11142,72",arabic,احمد المنصوري
+C-05035,فاطمة المنصوري,AE,فاطمةالمنصوري.5035@empresa.com,+525 639863627,06/07/2022,C,Abu Dhabi,"-1649,45",arabic,فاطمة المنصوري
+C-01724,weiß weiß,DE,weißweiß.1724@empresa.com,+639 920673593,08/07/2022,C,Düsseldorf,"3242,75",latin,weiss weiss
+C-02588,sahin yılmaz,TR,sahinyılmaz.2588@empresa.com,+605 761747380,10/07/2022,B,Bursa,"10976,88",latin,sahin yilmaz
+C-01421,Kaya Şirin,TR,kayasirin.1421@empresa.com,+408 771814773,13/07/2022,B,Bursa,"1952,40",latin,kaya sirin
+C-04902,Bär Weiß,DE,barweiß.4902@empresa.com,+804 881586444,13/07/2022,B,Düsseldorf,"10758,67",latin,bar weiss
+C-SPEC-0044,Soderberg,SE,soderberg.44@caso.especial,+34 600000044,18/07/2022,D,Göteborg,"1324,63",latin,soderberg
+C-04984,Ayşe Çavuş,TR,aysecavus.4984@empresa.com,+588 795688917,10/08/2022,B,Izmir,"9439,69",latin,ayse cavus
+C-03436,	Özlem Öztürk,TR,ozlemozturk.3436@empresa.com,+573 982137857,11/08/2022,C,Ankara,"7619,34",latin,ozlem ozturk
+C-02230,Güneş Çelik,TR,gunescelik.2230@empresa.com,+303 737900600,15/08/2022,A,Antalya,"9048,40",latin,gunes celik
+C-05954,Şirin Öztürk,TR,sirinozturk.5954@empresa.com,+308 943554858,29/08/2022,B,Antalya,"6175,78",latin,sirin ozturk
+C-05474,Jürgen  Löwe,DE,jurgenlowe.5474@empresa.com,+954 967191294,01/09/2022,C,Düsseldorf,"-1195,53",latin,jurgen lowe
+C-05045,Çağatay Kaya,TR,cagataykaya.5045@empresa.com,+816 708346905,05/09/2022,C,Bursa,"7999,87",latin,cagatay kaya
+C-02740,Löwe Müller,DE,lowemuller.2740@empresa.com,+266 689994303,08/09/2022,A,Hamburg,"9433,69",latin,lowe muller
+C-03204,عبدالله النجار,AE,عبداللهالنجار.3204@empresa.com,+401 759216986,10/09/2022,C,Al Ain,"5549,95",arabic,عبدالله النجار
+C-05483,	Mehmet Şahin,TR,mehmetsahin.5483@empresa.com,+897 762580751,14/09/2022,B,Istanbul,"8858,42",latin,mehmet sahin
+C-SPEC-0057,Muḥammad,AE,muhammad.57@caso.especial,+34 600000057,25/09/2022,A,Al Ain,"1882,16",latin,muhammad
+C-04426,Sędzik Sędzik,PL,sedziksedzik.4426@empresa.com,+594 918609991,26/09/2022,A,Varsovia,"6916,36",latin,sedzik sedzik
+C-05258,Şahin Şirin,TR,sahinsirin.5258@empresa.com,+473 717817374,10/10/2022,B,Ankara,"5594,76",latin,sahin sirin
+C-00830,Ğökhan Öztürk,TR,gokhanozturk.830@empresa.com,+358 957261925,14/10/2022,B,Ankara,"4007,52",latin,gokhan ozturk
+C-03338,Öztürk Yılmaz,TR,ozturkyılmaz.3338@empresa.com,+537 799983222,16/10/2022,D,Ankara,"2257,25",latin,ozturk yilmaz
+C-02867,Miłosz Sędzik,PL,miłoszsedzik.2867@empresa.com,+796 752981347,18/10/2022,D,Varsovia,"5371,64",latin,milosz sedzik
+C-05244,أحمد خليل,AE,احمدخليل.5244@empresa.com,+701 824614842,16/11/2022,A,Abu Dhabi,"4115,42",arabic,احمد خليل
+C-SPEC-0010,	IĞDIR,TR,igdir.10@caso.especial,+34 600000010,25/11/2022,C,Izmir,"4393,20",latin,igdir
+C-01341,Özlem Kaya,TR,ozlemkaya.1341@empresa.com,+571 901181396,27/11/2022,C,Istanbul,"11943,04",latin,ozlem kaya
+C-00870,Käufer Löwe,DE,kauferlowe.870@empresa.com,+886 970794524,08/12/2022,B,Hamburg,"8700,18",latin,kaufer lowe
+C-00584,Löwe Groß,DE,lowegroß.584@empresa.com,+360 719166977,11/12/2022,C,München,"-1754,59",latin,lowe gross
+C-05221,Doğan  Özlem,TR,doganozlem.5221@empresa.com,+622 892615291,24/01/2023,D,Antalya,"7820,81",latin,dogan ozlem
+C-SPEC-0008,istanbul,TR,istanbul.8@caso.especial,+34 600000008,26/01/2023,C,Istanbul,"3922,55",latin,istanbul
+C-04243,Öztürk  Güneş,TR,ozturkgunes.4243@empresa.com,+86 975948674,03/02/2023,D,Bursa,"3911,34",latin,ozturk gunes
+C-02163,Mehmet Yılmaz,TR,mehmetyılmaz.2163@empresa.com,+416 898584713,08/02/2023,A,Ankara,"1262,90",latin,mehmet yilmaz
+C-03482,Çağatay Çavuş,TR,cagataycavus.3482@empresa.com,+530 871109576,09/02/2023,D,Antalya,"3978,25",latin,cagatay cavus
+C-04601,نورة النجار,AE,نورةالنجار.4601@empresa.com,+905 751443165,14/02/2023,D,Al Ain,"4995,64",arabic,نورة النجار
+C-00833,Ömer Özlem,TR,omerozlem.833@empresa.com,+491 855808238,03/03/2023,D,Bursa,"7271,77",latin,omer ozlem
+C-03789,Şirin Şahin,TR,sirinsahin.3789@empresa.com,+659 817237183,20/03/2023,B,Antalya,"8106,28",latin,sirin sahin
+C-05402,Gülsüm Çelik,TR,gulsumcelik.5402@empresa.com,+966 891203611,23/03/2023,C,Izmir,"10652,97",latin,gulsum celik
+C-01361,Björn Groß,DE,bjorngroß.1361@empresa.com,+284 978434822,31/03/2023,C,Köln,"10010,96",latin,bjorn gross
+C-SPEC-0004,İbrahim,TR,ibrahim.4@caso.especial,+34 600000004,02/04/2023,C,Istanbul,"4007,52",latin,ibrahim
+C-01677,Doğan Şahin,TR,dogansahin.1677@empresa.com,+427 864421939,13/04/2023,A,Ankara,"1094,81",latin,dogan sahin
+C-03783,Björn Müller,DE,bjornmuller.3783@empresa.com,+748 800723782,16/04/2023,D,Köln,"1982,36",latin,bjorn muller
+C-02721,Öztürk Öztürk,TR,ozturkozturk.2721@empresa.com,+763 901975839,01/05/2023,B,Ankara,"1524,21",latin,ozturk ozturk
+C-05103,İpek Öztürk,TR,ipekozturk.5103@empresa.com,+763 614489168,27/05/2023,D,Bursa,"3965,69",latin,ipek ozturk
+C-05718,Ömer Şahin,TR,omersahin.5718@empresa.com,+222 914367530,23/06/2023,D,Istanbul,"5204,84",latin,omer sahin
+C-01442,İpek Çavuş,TR,ipekcavus.1442@empresa.com,+910 846273449,09/07/2023,C,Bursa,"5006,51",latin,ipek cavus
+C-03741,Bjorn Bar,DE,bjornbar.3741@empresa.com,+773 667838853,16/07/2023,A,Hamburg,"11016,04",latin,bjorn bar
+C-04543,Çelik Çelik,TR,celikcelik.4543@empresa.com,+678 934979193,11/08/2023,B,Ankara,"25,44",latin,celik celik
+C-03759,Çağatay Demir,TR,cagataydemir.3759@empresa.com,+946 955485931,03/09/2023,B,Izmir,"4043,71",latin,cagatay demir
+C-03690,Özlem Özlem,TR,ozlemozlem.3690@empresa.com,+79 783534949,24/09/2023,D,Izmir,"3306,55",latin,ozlem ozlem
+C-05222,IPEK SAHIN,TR,ipeksahin.5222@empresa.com,+111 602915771,06/05/2024,C,Izmir,"3476,90",latin,ipek sahin
+C-01479,Çavuş Çavuş,TR,cavuscavus.1479@empresa.com,+772 641736936,17/05/2024,D,Istanbul,"6133,52",latin,cavus cavus
+C-02546,Ayşe Özlem,TR,ayseozlem.2546@empresa.com,+351 815846376,27/05/2024,A,Istanbul,"10526,53",latin,ayse ozlem
+C-00533,Ömer Demir,TR,omerdemir.533@empresa.com,+591 851870657,23/07/2024,B,Izmir,"735,29",latin,omer demir
+C-05934,Gülsüm Doğan,TR,gulsumdogan.5934@empresa.com,+417 613655548,18/09/2024,B,Ankara,"11528,41",latin,gulsum dogan

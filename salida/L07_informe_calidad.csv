@@ -1,0 +1,68 @@
+﻿fichero,columna,dtype,filas,filas_duplicadas,nulos_reales,%_nulos,falsos_nulos,%_falsos_nulos,unicos,cardinalidad_%
+clientes_crm.csv,cliente_id,str,8652,400,0,0.0,0,0.0,6152,71.1
+clientes_crm.csv,nombre,str,8652,400,0,0.0,0,0.0,2587,29.9
+clientes_crm.csv,pais,str,8652,400,0,0.0,0,0.0,6,0.1
+clientes_crm.csv,email,str,8652,400,0,0.0,0,0.0,6152,71.1
+clientes_crm.csv,telefono,str,8652,400,256,2.96,0,0.0,6025,69.6
+clientes_crm.csv,alta,str,8652,400,0,0.0,0,0.0,1382,16.0
+clientes_crm.csv,segmento,str,8652,400,0,0.0,0,0.0,4,0.0
+clientes_crm.csv,ciudad,str,8652,400,0,0.0,0,0.0,29,0.3
+clientes_crm.csv,saldo,str,8652,400,0,0.0,0,0.0,8224,95.1
+encuestas_satisfaccion.csv,respuesta_id,int64,2500,0,0,0.0,0,0.0,2500,100.0
+encuestas_satisfaccion.csv,enviado,str,2500,0,0,0.0,0,0.0,300,12.0
+encuestas_satisfaccion.csv,satisfaccion,str,2500,0,0,0.0,416,16.64,18,0.7
+encuestas_satisfaccion.csv,velocidad_envio,str,2500,0,0,0.0,406,16.24,18,0.7
+encuestas_satisfaccion.csv,calidad_producto,str,2500,0,0,0.0,426,17.04,18,0.7
+encuestas_satisfaccion.csv,recomendaria,str,2500,0,274,10.96,0,0.0,7,0.3
+encuestas_satisfaccion.csv,comentario,str,2500,0,0,0.0,183,7.32,13,0.5
+finanzas_conciliacion.csv,fecha_operacion,str,6000,0,0,0.0,0,0.0,730,12.2
+finanzas_conciliacion.csv,concepto,str,6000,0,0,0.0,0,0.0,8,0.1
+finanzas_conciliacion.csv,importe,str,6000,0,0,0.0,0,0.0,5995,99.9
+finanzas_conciliacion.csv,saldo,str,6000,0,0,0.0,0,0.0,5996,99.9
+finanzas_conciliacion.csv,referencia,str,6000,0,0,0.0,0,0.0,5760,96.0
+finanzas_conciliacion.csv,conciliado,str,6000,0,1173,19.55,0,0.0,4,0.1
+logistica_envios.csv,envio_id,str,8000,0,0,0.0,0,0.0,8000,100.0
+logistica_envios.csv,pedido_id,str,8000,0,0,0.0,0,0.0,5890,73.6
+logistica_envios.csv,pais_origen,str,8000,0,0,0.0,0,0.0,3,0.0
+logistica_envios.csv,huso_origen,str,8000,0,0,0.0,0,0.0,3,0.0
+logistica_envios.csv,fecha_envio_local,str,8000,0,0,0.0,0,0.0,6273,78.4
+logistica_envios.csv,fecha_envio_utc,str,8000,0,0,0.0,0,0.0,5016,62.7
+logistica_envios.csv,peso_kg,str,8000,0,240,3.0,0,0.0,3435,42.9
+logistica_envios.csv,coste_envio,str,8000,0,0,0.0,0,0.0,4244,53.0
+logistica_envios.csv,estado,str,8000,0,0,0.0,0,0.0,20,0.2
+logistica_envios.csv,transportista,str,8000,0,0,0.0,0,0.0,5,0.1
+productos_catalogo.csv,sku,str,4000,0,0,0.0,0,0.0,4000,100.0
+productos_catalogo.csv,descripcion,str,4000,0,0,0.0,0,0.0,521,13.0
+productos_catalogo.csv,precio,str,4000,0,0,0.0,0,0.0,3838,96.0
+productos_catalogo.csv,unidad_medida,str,4000,0,0,0.0,0,0.0,7,0.2
+productos_catalogo.csv,familia,str,4000,0,0,0.0,0,0.0,8,0.2
+productos_catalogo.csv,stock,int64,4000,0,0,0.0,0,0.0,500,12.5
+productos_catalogo.csv,activo,str,4000,0,0,0.0,0,0.0,10,0.2
+ventas_2024_este.csv,ID Pedido,str,12000,0,0,0.0,0,0.0,12000,100.0
+ventas_2024_este.csv,Fecha Pedido,str,12000,0,0,0.0,0,0.0,365,3.0
+ventas_2024_este.csv,ID Cliente,str,12000,0,0,0.0,0,0.0,3126,26.1
+ventas_2024_este.csv,Region,str,12000,0,0,0.0,0,0.0,7,0.1
+ventas_2024_este.csv,Categoria,str,12000,0,0,0.0,0,0.0,8,0.1
+ventas_2024_este.csv,Canal,str,12000,0,0,0.0,0,0.0,5,0.0
+ventas_2024_este.csv,Metodo Pago,str,12000,0,0,0.0,0,0.0,5,0.0
+ventas_2024_este.csv,Unidades,int64,12000,0,0,0.0,0,0.0,11,0.1
+ventas_2024_este.csv,Precio Unitario,float64,12000,0,0,0.0,0,0.0,11273,93.9
+ventas_2024_este.csv,Importe,float64,12000,0,0,0.0,0,0.0,11779,98.2
+ventas_2024_este.csv,Descuento %,float64,12000,0,593,4.94,0,0.0,5,0.0
+ventas_2024_oeste.tsv,order_id,str,9000,0,0,0.0,0,0.0,9000,100.0
+ventas_2024_oeste.tsv,order_date,str,9000,0,0,0.0,0,0.0,180,2.0
+ventas_2024_oeste.tsv,customer_id,str,9000,0,0,0.0,0,0.0,1976,22.0
+ventas_2024_oeste.tsv,region,str,9000,0,0,0.0,0,0.0,3,0.0
+ventas_2024_oeste.tsv,category,str,9000,0,0,0.0,0,0.0,8,0.1
+ventas_2024_oeste.tsv,qty,int64,9000,0,0,0.0,0,0.0,7,0.1
+ventas_2024_oeste.tsv,unit_price,float64,9000,0,0,0.0,0,0.0,7706,85.6
+ventas_2024_oeste.tsv,currency,str,9000,0,0,0.0,0,0.0,1,0.0
+ventas_2024_oeste.tsv,total,float64,9000,0,0,0.0,0,0.0,8548,95.0
+rrhh_nominas.xlsx,nombre,str,800,0,0,0.0,0,0.0,660,82.5
+rrhh_nominas.xlsx,pais,str,800,0,0,0.0,0,0.0,5,0.6
+rrhh_nominas.xlsx,departamento,str,800,0,0,0.0,0,0.0,6,0.8
+rrhh_nominas.xlsx,salario_base,str,800,0,0,0.0,0,0.0,800,100.0
+rrhh_nominas.xlsx,plus_2022,str,800,0,0,0.0,0,0.0,798,99.8
+rrhh_nominas.xlsx,plus_2023,str,800,0,0,0.0,0,0.0,799,99.9
+rrhh_nominas.xlsx,plus_2024,str,800,0,0,0.0,0,0.0,798,99.8
+rrhh_nominas.xlsx,bajas_2024,int64,800,0,0,0.0,0,0.0,2,0.2
